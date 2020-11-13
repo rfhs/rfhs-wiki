@@ -5,6 +5,8 @@
 
  [WCTF Rules](WirelessCaptureTheFlag-WCTF-RULES)
 
+ [Contributing](contributing_for_points)
+
  [WiFi Challenges](WirelessCaptureTheFlag-WCTF-WIFI-Challenges)
 
  [Software Defined Radio Challenges](WirelessCaptureTheFlag-WCTF-SoftwareDefinedRadio-Challenges)
