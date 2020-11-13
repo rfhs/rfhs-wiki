@@ -5,7 +5,7 @@
 
  [WCTF Rules](WirelessCaptureTheFlag-WCTF-RULES)
 
- [Contributing](contributing_for_points)
+ [Contributing to the wiki](Contributing-for-points)
 
  [WiFi Challenges](WirelessCaptureTheFlag-WCTF-WIFI-Challenges)
 
