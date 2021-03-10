@@ -1,2 +1,2 @@
 # rfhs-wiki
-This will be a wiki when it grows up, if it grows up
+If you want to change the wiki, send your PR here
