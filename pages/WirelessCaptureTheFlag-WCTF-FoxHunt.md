@@ -1,6 +1,6 @@
 ## Virtual Foxhunt
 ### Quick Start:
-To access the virtual foxhunt, please go here: [http://dfsim.net:8080/greyhat/index.php](http://dfsim.net:8080/greyhat/index.php)
+To access the virtual foxhunt, please go here: [http://dfsim.net/index.php](http://dfsim.net/index.php)
 
 ### Background:
 The Virtual Foxhunt uses simulated transmitters and receivers. You are provided with receiver location and signal angle of arrival data. Your task is to collect and process that data to determine the location of the transmitter.

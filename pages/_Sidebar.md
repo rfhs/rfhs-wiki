@@ -1,7 +1,7 @@
 # [Home](Home)
 
-## Wireless CTF Information
- [Getting Started](WirelessCaptureTheFlag-WCTF-Virtual-HowToGetStarted)
+## RF CTF Information
+ [Getting Started](RF-CTF-Virtual-HowToGetStarted)
 
  [WCTF Rules](WirelessCaptureTheFlag-WCTF-RULES)
 
