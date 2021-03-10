@@ -21,11 +21,11 @@ No one person knows everything.  We are a community of very smart, motivated, an
 * NFC
 
 ### Links for RFHS
-[Main Site](http://wctf.ninja)
 
-[Twitter WCTF](https://twitter.com/wctf_us)
 
-[Twitter Wireless Village](https://twitter.com/WiFi_Village)
+[Main Site](https://rfhackers.com/)
+
+[Twitter RF CTF](https://twitter.com/rf_ctf)
 
 [Twitter RFHS](https://twitter.com/rfhackers)
 

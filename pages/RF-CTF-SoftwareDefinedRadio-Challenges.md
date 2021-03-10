@@ -1,4 +1,4 @@
-# WCTF Software Defined Radio Challenges
+# RF CTF Software Defined Radio Challenges
 
 
 ## HAM_DIGITAL_n

@@ -1,10 +1,10 @@
-WirelessCaptureTheFlag Rules
+RF CaptureTheFlag Rules
 
-The first rule of WCTF Club is to have fun and learn.
+The first rule of RF CTF Club is to have fun and learn.
 
 Both offense and Defense are in scope.
 
-If you are caught doing anything bad the WCTF Team will punish with extreme prejudice in any and every way they feel required and it won't be fair.
+If you are caught doing anything bad the RF CTF Team will punish with extreme prejudice in any and every way they feel required and it won't be fair.
 
 Follow all local, state, and Federal Rules.
 

@@ -1,6 +1,9 @@
 # What is the RF Capture the Flag?
-*new intro blurb goes here*
 
+Do you have what it takes to hack WiFi, Bluetooth, and Software Defined Radio (SDR)?
+RF Hackers Sanctuary (the group formerly known as Wireless Village) is once again holding the Radio Frequency Capture the Flag (RFCTF) at GRIMMCon 0x4.
+
+We cater to both those who are new to radio communications as well as to those who have been playing for a long time. We are looking for inexperienced players on up to the SIGINT secret squirrels to play our games. The RFCTF can be played with a little knowledge, a pen tester’s determination, and $40 to $4000 worth of equipment.  Our new virtual RFCTF can be played completely remotely without needing any specialized equipment at all!  The key is to read the clues, determine the goal of each challenge, and have fun learning.
 
 ## How do I play?
 
@@ -9,6 +12,7 @@
 2. Make a team or join a team when registering your user
 
 3. If you do not make or join a team you will go on team blah and **be unable to submit flags**
+
 4.  Have fun and learn
 
 
@@ -25,7 +29,7 @@ You supply your own internet. We can see you, so be careful
 
 You will run some scripts from [Here](https://github.com/rfhs/wctf-sdr-tools) or create your own ZMQ receivers
 
-[SDR Challenges](https://github.com/rfhs/rfhs-wiki/wiki/WirelessCaptureTheFlag-WCTF-SoftwareDefinedRadio-Challenges)
+[SDR Challenges](https://github.com/rfhs/rfhs-wiki/wiki/RF-CTF-SoftwareDefinedRadio-Challenges)
 
 ## WIFI Challenges
 
@@ -33,7 +37,7 @@ You will run some scripts from [Here](https://github.com/rfhs/wctf-sdr-tools) or
 
 ## FOX Hunts
 
-We found creative ways to put out a "fox" see (per conference)
+We found creative ways to put out a "fox" see [RF-CTF-FoxHunt](RF-CTF-FoxHunt)
 
 ## Wordlist
 

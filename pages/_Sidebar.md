@@ -3,16 +3,15 @@
 ## RF CTF Information
  [Getting Started](RF-CTF-Virtual-HowToGetStarted)
 
- [WCTF Rules](WirelessCaptureTheFlag-WCTF-RULES)
+ [RFCTF Rules](RF-CTF-RULES)
 
- [Contributing to the wiki](Contributing-for-points)
+ [RF CTF WiFi Challenges](RF-CTF-WIFI-Challenges)
 
- [WiFi Challenges](WirelessCaptureTheFlag-WCTF-WIFI-Challenges)
+ [RF CTF Software Defined Radio Challenges](RF-CTF-SoftwareDefinedRadio-Challenges)
 
- [Software Defined Radio Challenges](WirelessCaptureTheFlag-WCTF-SoftwareDefinedRadio-Challenges)
+ [RF CTF Foxhunt](RF-CTF-FoxHunt)
 
- [WCTF Foxhunt](WirelessCaptureTheFlag-WCTF-FoxHunt)
-
+ [Contributing to the wiki](RF-CTF-Contributing-for-points)
 
 ## Resources
  [WiFi](WiFi)
@@ -28,4 +27,5 @@
  [Software Defined Radio](Software-Defined-Radio)
 
 ## Other
+
  [Contributors](zz-contributors)
