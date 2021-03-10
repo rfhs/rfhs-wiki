@@ -20,3 +20,21 @@ Known bugs:
 [] Sometimes the screen locks, and refuses to unlock.
 [] Lots more bugs, please report them in our discord so we can track and fix them
 
+==RF CTF Wifi Challenges==
+
+The entire virtual wifi environment is fair game.  If you can see it, you probably want to hack it.
+The challenges are specifically following the ESSID naming convention "RFHS_CTF_##" where ## is a number from 00 through 18 (numbers do NOT indicate difficulty).  Each of these wifi devices will offer a different configuration or challenge.  Please use the included dictionary file for all password cracking needs, you will find it conveniently in your home directory in the virtual environment.
+Beginner level challenges for the most common configs are specifically available as "RFHS_CTF_WEP" and "RFHS_CTF_WPA".  These challenges are lower point value but great for starting out or practicing before attacking the main challenges.  The simple step-by-step guides available via google should work well for these, while the main challenges often require some additional finesse.
+
+Flag
+[] For WEP based challenges, submit the wep key in ascii or hex.  If you submit in hex, it should be all upper case with no separaters. (FEEDDEADBEEF not fe:ed:de:ad:be:ef)
+[] For WPA based challenges, submit the wpa passphrase (PSK/SAE) or user password (Enterprise)
+[] For challenges without a shared key (open, etc), there is a user passing credentials in a cleartext format, sniff it out and submit the password.
+[] You can connect to RFHS_CTF_12 and navigate to the router from a web browser for a flag.
+
+Hints
+[] Always be collecting.  You have multiple wifi cards, USE THEM.
+[] Ensure the tools you are using are modern.  The protocols we are using are modern, you need modern tools to see things correctly
+[] Kismet is your friend.  Aircrack-ng is a good acquaintance but not always a friend.
+[] There are devices for RFHS_CTF_00 through RFHS_CTF_18 *inclusive*, no numbers are missing.  Find it.
+[] If you get stuck, ask for help in discord.  It's always worth trying.
