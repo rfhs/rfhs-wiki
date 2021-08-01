@@ -158,7 +158,7 @@ Not all pagers use POCSAG.
 
 ## ZMQ
 server is sdr.rfhackers.com ports 6550-6580
-[SDR TOOLS](https://github.com/rfhs/wctf-sdr-tools/)
+[SDR TOOLS](https://github.com/rfhs/rfctf-sdr-tools)
 
 
 

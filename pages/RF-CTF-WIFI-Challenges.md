@@ -23,7 +23,7 @@ There will also be two new buttons below the connection table.
 
 The game environment can be accessed over ssh or http. If you prefer ssh, here are some helpful tips:
 
-* The basic access example on the website will get you connected: ssh -i WCTF_Key root@<your_randomly_assigned_hostname>.contestant.rfhackers.com -p 2201
+* The basic access example on the website will get you connected: ssh -i RFCTF_Key root@<your_randomly_assigned_hostname>.contestant.rfhackers.com -p 2201
 
 
 * Additional ssh flags can be used to enhance the experience.  For example, X11 forwarding can be enabled by adding "-X".  Some users may need to bypass X11 security restrictions and use "-Y" instead, depending on the setup on your machine.  Note: this only works if you are running a local X11 server, typically that means just linux users.  Forwarding X11 means you can run a graphical program in the virtual environment and the display will be pushed back to your local machine through the ssh tunnel for you to interact with.  This can be used, for example, with wireshark.

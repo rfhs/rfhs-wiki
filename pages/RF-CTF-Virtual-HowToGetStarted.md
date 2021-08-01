@@ -27,7 +27,7 @@ You supply your own internet. We can see you, so be careful.
 
 ## Software Defined Radio (SDR) Challenges
 
-You will run some scripts from [Here](https://github.com/rfhs/wctf-sdr-tools) or create your own ZMQ receivers.
+You will run some scripts from [Here](https://github.com/rfhs/rfctf-sdr-tools) or create your own ZMQ receivers.
 
 [SDR Challenges](https://github.com/rfhs/rfhs-wiki/wiki/RF-CTF-SoftwareDefinedRadio-Challenges)
 
@@ -41,7 +41,7 @@ We found creative ways to put out a "fox" see [RF-CTF-FoxHunt](RF-CTF-FoxHunt)
 
 ## Wordlist
 
-[CyberPunk](https://github.com/rfhs/wctf-files/blob/master/wordlist/cyberpunk.words)
+[WIGLE](https://github.com/rfhs/rfctf-files/raw/master/wordlist/wigle.words)
 
 
 *The wordlist is also present in the /root directory of the contestant virtual environments*

@@ -34,6 +34,6 @@ No one person knows everything.  We are a community of very smart, motivated, an
 ## Rules for Contributing
 
 * Stay on topic
-* Site all sources
+* Cite all sources
 * Provide links and Give proper credit
 * Provide informaiton in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
