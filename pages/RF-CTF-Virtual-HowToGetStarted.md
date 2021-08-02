@@ -35,6 +35,11 @@ You will run some scripts from [Here](https://github.com/rfhs/rfctf-sdr-tools) o
 
 [Wifi Challenges](https://github.com/rfhs/rfhs-wiki/wiki/RF-CTF-WIFI-Challenges)
 
+## World Wide War Drive
+
+The World Wide War Drive is back again for DEF CON 29, powered by wigle.net
+[WWWD](https://github.com/rfhs/rfhs-wiki/wiki/RF-CTF-WWWD.md)
+
 ## FOX Hunts
 
 We found creative ways to put out a "fox" see [RF-CTF-FoxHunt](RF-CTF-FoxHunt)
