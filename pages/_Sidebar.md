@@ -11,7 +11,7 @@
 
  [RF CTF World Wide Wardrive](RF-CTF-WWWD)
 
- [RF CTF Foxhunt](RF-CTF-FoxHunt)
+ [RF CTF Foxhunt](RF-CTF-Foxhunt)
 
  [Contributing to the wiki](RF-CTF-Contributing-for-points)
 
