@@ -138,10 +138,13 @@ Not all pagers use POCSAG.
 </details>
 
 
+## ISS
 
+This challenge will require you to send a message to the international space station, be digipeated back to earth, and reported on ARISS.net
 
-
-
+An amateur radio license is required!
+DMs will come from @APRSISS please follow that account to RX your flag!
+Your message to the ISS must include the following string to count DEFCON@twitter_handle@
 
 
 
@@ -165,5 +168,7 @@ server is sdr.rfhackers.com ports 6550-6580
 https://zeromq.org/
 
 ZeroMQ (also known as ØMQ, 0MQ, or zmq) looks like an embeddable networking library but acts like a concurrency framework. It gives you sockets that carry atomic messages across various transports like in-process, inter-process, TCP, and multicast. You can connect sockets N-to-N with patterns like fan-out, pub-sub, task distribution, and request-reply. It's fast enough to be the fabric for clustered products. Its asynchronous I/O model gives you scalable multicore applications, built as asynchronous message-processing tasks. It has a score of language APIs and runs on most operating systems.
+
+**Note:** If you're on a low bandwidth connection, it's recommended to save the IQ stream to a file first, then decode the information from the file.
 
 http://www.sigidwiki.com/wiki/
