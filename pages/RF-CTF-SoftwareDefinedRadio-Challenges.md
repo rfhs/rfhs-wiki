@@ -140,7 +140,13 @@ Not all pagers use POCSAG.
 
 
 
+## ISS
 
+This challenge will require you to send a message to the international space station, be digipeated back to earth, and reported on ARISS.net
+
+An amateur radio license is required!
+DMs will come from @APRSISS please follow that account to RX your flag!
+Your message to the ISS must include the following string to count DEFCON@twitter_handle@
 
 
 
