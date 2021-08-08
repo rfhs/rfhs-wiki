@@ -3,7 +3,7 @@
 
 ## HAM_DIGITAL_n
 
-Port Range 655X-655X is running a digital mode commonly used in ham radio.
+Port Range 6550-6555 is running a digital mode commonly used in ham radio.
 
 Flag
 
@@ -15,9 +15,9 @@ Hint
 Commonly available ham radio software can be used to decode this.  Examples include: fldigi, qsstv, direwolf, minimodem, wsjtx
 </details>
 
-## HAM_SSTV_n
+## HAM_SSTV_1
 
-Port Range 655X-655X is running a digital mode commonly used in ham radio.
+Port Range 6560 is running a digital mode commonly used in ham radio.
 
 Flag
 
@@ -31,7 +31,7 @@ Commonly available ham radio software can be used to decode this.  Examples incl
 
 ## HAM_MORSE_n
 
-Port Range 656X-656X is running morse code as commonly used in ham radio.
+Port Range 6556-6559 is running morse code as commonly used in ham radio.
 
 Flag
 
@@ -46,7 +46,7 @@ Hint
 
 ## SDR_ASK_1
 
-Port Range 657X-657X is running Amplitude Shift Keying.  Capture this signal and use ASK methods to decode it.
+Port Range 6561-6564 is running Amplitude Shift Keying.  Capture this signal and use ASK methods to decode it.
 
 Flag
 Properly decoding this signal will give you a readable ascii string which may be submitted to the scoreboard.
@@ -112,7 +112,7 @@ The device locks and unlocks.
 
 ## POCSAG
 
-Port Range 659X-659X has a pager, you know, like in the nineties.
+Port Range 6570 has a pager, you know, like in the nineties.
 
 Flag
 Capcode from the repeating transmission
@@ -126,7 +126,7 @@ Check out some tutorials on decoding pagers.
 
 ## LRS_PAGER
 
-Port Range 659X-659X has a restaurant pager system.
+Port Range 6566 has a restaurant pager system.
 
 Flag
 submit the full packet (hex string), including the sync word (Excluding preamble)
@@ -160,7 +160,7 @@ Your message to the ISS must include the following string to count DEFCON@twitte
 
 
 ## ZMQ
-server is sdr.rfhackers.com ports 6550-6580
+server is sdr.rfhackers.com ports 6550-6570
 [SDR TOOLS](https://github.com/rfhs/rfctf-sdr-tools)
 
 
