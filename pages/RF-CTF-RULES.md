@@ -14,4 +14,8 @@ Points do not transfer from team to team if you change teams.
 
 We reserve the right to retire a team or competitor at any time.  This is based on superior performance or poor and bad behaviour.
 
+All "in person" CTFs will be "hybrid" (meaning both physical and virtual available), and cons we are not at physically present will be "virtual only"
+
+You should not assume the virtual CTF will be fair in points or available challenges when hybrid. Our priority is to the in person CTF any issues or challenges with the virtual event will be addressed if and when able.
+
 **Don't make us make more rules.**

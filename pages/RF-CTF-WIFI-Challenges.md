@@ -1,4 +1,12 @@
-# Virtual WiFi
+# RF-CTF-WIFI-challenges
+
+
+This should be considered a general list with general information for both virtual and online/virtual challenges.
+
+All challenges are subject to change and may be available only if the code or equipment is working.
+Please check with staff if you have any questions.
+
+## virtual
 
 Log in to your existing account or create a new one on our scoreboard: https://scoreboard.rfhackers.com/?wtf=login; once you are logged in, click the heading with your user name (https://scoreboard.rfhackers.com/?pita). Follow the directions to provision a new vm (below modifying user settings, above the user scoreboard). Click on the rather small button labeled "provision".
 
@@ -85,7 +93,7 @@ Beginner level challenges for the most common configs are specifically available
 <details>
   <summary>Click here to see hint</summary>
 
-  
+
 * Always be collecting.  You have multiple wifi cards, USE THEM.
 
 

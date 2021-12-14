@@ -1,4 +1,56 @@
-## Virtual Foxhunt
+# RF-CTF-Foxhunt
+
+## INFO
+
+This should be considered a general list with general information for both virtual and online/virtual challenges.
+
+All challenges are subject to change and may be available only if the code or equipment is working.
+Please check with staff if you have any questions.
+
+The foxes released will be announced via social media such as but not limited to Discord channels and Twitter
+
+Foxes can vary per event in type of fox and quantity of fox deployed
+
+
+
+## In Person Foxes
+
+### Wifi
+track by BSSID
+track by ESSID
+
+Client and AP
+
+### SDR
+AM
+FM
+
+
+### Bluetooth
+
+easy
+
+medium
+
+hard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Virtual Foxhunt(when available please check current event for updates)
 ### Quick Start:
 To access the virtual foxhunt, please go here: [http://dfsim.net/index.php](http://dfsim.net/index.php)
 

@@ -1,5 +1,13 @@
 # RF CTF Software Defined Radio Challenges
 
+This should be considered a general list with general information for both virtual and online/virtual challenges.
+
+All challenges are subject to change and may be available only if the code or equipment is working.
+Please check with staff if you have any questions.
+
+
+
+# Virtual Challenges
 
 ## HAM_DIGITAL_n
 
