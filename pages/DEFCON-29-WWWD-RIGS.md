@@ -1,5 +1,6 @@
+# DEFCON29 WWDC RIGS
 
-
+Collected from discord and twitter during the event
 
 
 ## andrewramond
