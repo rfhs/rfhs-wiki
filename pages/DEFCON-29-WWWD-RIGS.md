@@ -1,6 +1,7 @@
-# DEFCON29 WWDC RIGS
+# DEFCON29 WWWD RIGS
 
 Collected from discord and twitter during the event
+we can add more if needed or a new page for new pics not associated with DEFCON29 WWWD
 
 
 ## andrewramond
