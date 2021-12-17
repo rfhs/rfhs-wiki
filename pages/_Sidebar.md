@@ -9,8 +9,6 @@
 
  [RF CTF WiFi Challenges](RF-CTF-WIFI-Challenges)
 
- [RF CTF World Wide Wardrive](RF-CTF-WWWD)
-
  [RF CTF Foxhunt](RF-CTF-Foxhunt)
 
  [Contributing to the wiki](RF-CTF-Contributing-for-points)
@@ -29,5 +27,7 @@
  [Software Defined Radio](Software-Defined-Radio)
 
 ## Other
+
+ [DEFCON-29-WWWD-RIGS](DEFCON-29-WWWD-RIGS)
 
  [Contributors](zz-contributors)
