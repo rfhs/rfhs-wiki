@@ -145,6 +145,58 @@ Hint
 Not all pagers use POCSAG.
 </details>
 
+## 802_15_4_RX
+
+There is a simulated industrial sensor, transmitting continuously.
+
+Flag
+Submit the flag transmitted by the sensor, which is an ASCII string, transmitted in between the simulated readings.
+
+Hint
+<details>
+  <summary>Click here to see hint</summary>
+What is IEEE 802.15.4, and what tools can you use to receive it?
+</details>
+
+## 802_15_4_TX
+
+There is a simulated industrial sensor, transmitting continuously. Spoof a transmission from the sensor to trigger an alarm on the receiver.
+
+Flag
+Submit the flag transmitted by the receiver, which is an ASCII string, transmitted after the alarm is triggered.
+
+Hint
+<details>
+  <summary>Click here to see hint</summary>
+This simulated sensor uses a non-standard protocol within IEEE 802.15.4, and there are protections in place to protect against errors. Craft your attack packet carefully.
+</details>
+
+## 6LoWPAN_RX
+
+There are devices communicating periodically over 6LoWPAN.
+
+Flag
+Submit the flags transmitted over 6LoWPAN (ASCII strings).
+
+Hint
+<details>
+  <summary>Click here to see hint</summary>
+What is 6LoWPAN? What MAC layer protocol does it use?
+</details>
+
+## 6LoWPAN_TX
+
+There are devices communicating periodically over 6LoWPAN.
+
+Flag
+Join the 6LoWPAN network, and follow the directions to find this flag (ASCII string).
+
+Hint
+<details>
+  <summary>Click here to see hint</summary>
+You will need bidirectional communication, not just packet injection, to obtain this flag.
+</details>
+
 
 ## ISS
 
