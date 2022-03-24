@@ -26,6 +26,9 @@ There will also be two new buttons below the connection table.
 
 "Destroy" will completely erase your virtual environment, this will automatically happen at the end of the game, or you can do it when you are done accessing the game.
 
+## in-person
+All challenges that are virtual will be available in person.  Like in all past years there are always things in the room that will be uniqu to the room.  The challenges that are in the room at the Conference, will have a different feel to them, but the flags and the keys will all be the same whether you are in-person or virtual.  Good luck!
+
 ## =SSH Access=
 
 
