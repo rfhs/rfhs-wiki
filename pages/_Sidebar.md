@@ -22,7 +22,7 @@
 
  [Near Field Communication NFC](Near-Field-Communication-NFC)
 
- [Radio Frequency Identificaiton RFID](Radio-Frequency-Identificaiton-RFID)
+ [Radio Frequency Identificaiton RFID](Radio-Frequency-Identificaton-RFID)
 
  [Software Defined Radio](Software-Defined-Radio)
 
