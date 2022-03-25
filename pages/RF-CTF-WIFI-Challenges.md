@@ -6,6 +6,9 @@ This should be considered a general list with general information for both virtu
 All challenges are subject to change and may be available only if the code or equipment is working.
 Please check with staff if you have any questions.
 
+## in-person
+All challenges that are virtual will be available in person.  Like in all past years there are always things in the room that will be unique to the room.  The challenges that are in the room at the conference, will have a different feel to them, but the flags and the keys will all be the same whether you are in-person or virtual.  Good luck!
+
 ## virtual
 
 Log in to your existing account or create a new one on our scoreboard: https://scoreboard.rfhackers.com/?wtf=login; once you are logged in, click the heading with your user name (https://scoreboard.rfhackers.com/?pita). Follow the directions to provision a new vm (below modifying user settings, above the user scoreboard). Click on the rather small button labeled "provision".
@@ -25,9 +28,6 @@ There will also be two new buttons below the connection table.
 "Reboot" will reboot your virtual environment if something is broken and reset you to a default state (*you will lose your changes and any files*).
 
 "Destroy" will completely erase your virtual environment, this will automatically happen at the end of the game, or you can do it when you are done accessing the game.
-
-## in-person
-All challenges that are virtual will be available in person.  Like in all past years there are always things in the room that will be unique to the room.  The challenges that are in the room at the conference, will have a different feel to them, but the flags and the keys will all be the same whether you are in-person or virtual.  Good luck!
 
 ## =SSH Access=
 
