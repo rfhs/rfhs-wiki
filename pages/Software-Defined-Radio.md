@@ -14,6 +14,10 @@ Nuand also has a [BladeRF Wiki](https://github.com/Nuand/bladeRF/wiki) for Blade
 
 The [Ettus Research Knowledge Base](https://kb.ettus.com/Knowledge_Base) for anything USRP or UHD related.
 
+Russ has a number of SDR resources and examples at [sdr.ninja](http://sdr.ninja/)
+
+NotPike has a list of SDR and other RF resources in NotPike's [SDR-Notes](https://github.com/notpike/SDR-Notes)
+
 # Tutorials
 [GNURadio Tutorials](https://wiki.gnuradio.org/index.php?title=Tutorials)
 
