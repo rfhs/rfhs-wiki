@@ -28,26 +28,26 @@ Radio Frequency (RF) Technologies:
 * How to Perform Site Surveys
 
 ### Offensive Security Wireless Professional
-The [Offensive Security Wireless Professional (OSWP)](https://www.offensive-security.com/wifu-oswp/) is a wireless security auditing certification provided by [Offensive Security](https://www.offensive-security.com/). Before scheduling the exam, the individual must first complete the lab assignments with the Offensive Security Wireless Attacks (WiFu).
+The [Offensive Security Wireless Professional (OSWP)](https://www.offensive-security.com/wifu-oswp/) is a wireless security auditing certification provided by [Offensive Security](https://www.offensive-security.com/). Before scheduling the exam, the individual must first complete the lab assignments with the Offensive Security Wireless Attacks (PEN-210).
 
-The WiFu lab course materials and OSWP cover the essential tools and auditing methods:
+The PEN-210 lab course materials and OSWP cover the essential tools and auditing methods:
 
 * IEEE 802.11
 * Wireless Networks
-* Packets and Network Interaction
-* Linux Wireless Stack and Drivers
+* Wi-Fi Encryption
+* Linux Wireless Tools, Drivers, and Stacks
+* Wireshark Essentials
+* Frames and Network Interaction
 * Aircrack-ng Essentials
-* Cracking WEP with Connected Clients
-* Cracking WEP via a Client
-* Cracking Clientless WEP Networks
-* Bypassing WEP Shared Key Authentication
-* Cracking WPA/WPA2 PSK with Aircrack-ng
-* Cracking WPA with JTR and Aircrack-ng
-* Cracking WPA with coWPAtty
-* Cracking WPA with Pyrit
-* Additional Aircrack-ng Tools
-* Wireless Reconnaissance
+* Cracking Authentication Hashes
+* Attacking WPS Networks
 * Rogue Access Points
+* Attacking WPA Enterprise
+* Attacking Captive Portals
+* bettercap Essentials
+* Kismet Essentials
+* Determining Chipsets and Drivers
+* Manual Network Connections
 
 ## Wireless Security Research
 _To be added at a later time._
