@@ -233,22 +233,6 @@ http://www.sigidwiki.com/wiki/
 
 IN PERSON
 
-The Woody stuff:
-First person to solve all three Gets the SWAG Antenna.
-
-**Gotenna:**
-This challenge will be based on the original gotennas.
-There will be several messages playing. You have three challenges
-
-
-#1 Gotennas Says: This challnges is an open broadcast. You need to send us in human readable exactly what the payload was. For example if the payload is in hex make it human readable this means real words. 
-
-#2 Go Numbers
-This is an encrypted message so you probably cant read the message but tell us what the  phone number or gid is for the sending gotenna.
-format no country codes in your flags example 5555555555  or 1234567890 
-
-#3 Go gave me
-This will be the phone number or GID of the receiving device. 
 
 
 
