@@ -114,7 +114,11 @@ What makes the title and artist show up when you're listening to a stereo FM sta
 
 ### Virtual
 
-Port Range 6570 has a pager, you know, like in the nineties.
+Port 6570 has a pager, you know, like in the nineties.
+
+### Physical
+
+This pager can also be found at 444.5 MHz.
 
 ### Flag
 Capcode from the repeating transmission
@@ -126,11 +130,24 @@ Message from the repeating transmission
 Check out some tutorials on decoding pagers.
 </details>
 
+## POCSAG_TX
+
+### Physical
+
+Follow the instructions from the pager at 444.5 MHz.
+
+### Flag
+Points will be manually awarded upon completion of this challenge.
+
 ## LRS_PAGER
 
 ### Virtual
 
-Port Range 6566 has a restaurant pager system.
+Port 6566 has a restaurant pager system.
+
+### Physical
+
+This system is also running at 422.75 MHz.
 
 ### Flag
 submit the full packet (hex string), including the sync word (Excluding preamble)
