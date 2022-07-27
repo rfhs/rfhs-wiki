@@ -10,7 +10,9 @@
  [RF CTF WiFi Challenges](RF-CTF-WIFI-Challenges)
 
  [RF CTF Foxhunt](RF-CTF-Foxhunt)
- 
+
+ [RF CTF RFID-NFC Challenges](RF-CTF-RFID-NFC-Challenges)
+
  [RF CTF WWWD](RF-CTF-WWWD)
 
  [Contributing to the wiki](RF-CTF-Contributing-for-points)
