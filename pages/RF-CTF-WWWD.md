@@ -59,7 +59,7 @@ It's important to know where you've been and where you want to go. Planning your
 ### Google Maps
 [Google Maps](https://www.google.com/maps/d/u/0/) allows you to easily create a map with your quadrant boundaries, and markers for specific areas you may want to give more attention to. It can be opened on your mobile device to provide directions to markers, and view of your current location to ensure you're in your quadrant.
 
-![](../files/images/wwwd/gmaps.jpg)
+![gmaps](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/wwwd/gmaps.jpg)
 
 
 ### Wigle app
@@ -67,8 +67,8 @@ The Wigle app also has a feature that will allow track where you have been.
 - "Display routes for execution" will overlay the route you have taken since the app was launched.
 - "Log routes for execution" will log your route, and can be viewed and exported as a GPX file via the Database page.
 
-![](../files/images/wwwd/wigleRoute.jpg)
-![](../files/images/wwwd/savedRoute.jpg)
+![wigleRoute](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/wwwd/wigleRoute.jpg)
+![savedRoute](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/wwwd/savedRoute.jpg)
 
 
 
