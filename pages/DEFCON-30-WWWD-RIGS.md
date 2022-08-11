@@ -130,27 +130,27 @@ Twitter: https://twitter.com/w4www_raker
 
 ### Rig Pics
 
-![](/files/images/defcon30wwwdrigs/w4wwww/E0B2EFFA-9394-4D32-BFB2-446DD171ECE8.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/E0B2EFFA-9394-4D32-BFB2-446DD171ECE8.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/FOB_76HXEAEdBM7.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/FOB_76HXEAEdBM7.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/FOB_76IXMAAkUOK.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/FOB_76IXMAAkUOK.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/FS13sk3WQAA8-BX.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/FS13sk3WQAA8-BX.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/FS13sk4XwAE4pr4.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/FS13sk4XwAE4pr4.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/FZc1tAgXkAcFuld.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/FZc1tAgXkAcFuld.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/FZJMeewWAAASX-c.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/FZJMeewWAAASX-c.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/FZJMeeyWAAA8Jxo.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/FZJMeeyWAAA8Jxo.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/IMG_1987.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/IMG_1987.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/IMG_2341.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/IMG_2341.jpg)
 
-![](/files/images/defcon30wwwdrigs/w4wwww/IMG_2342.jpg)
+![](/files/images/defcon30wwwdrigs/w4www/IMG_2342.jpg)
 
 ## #9 - aromond
 
@@ -208,9 +208,9 @@ Twitter: https://twitter.com/infdeg
 
 ### Rig Pics
 
-![](/files/images/defcon30wwwdrigs/nthdeg/7DAAE103-8434-4D98-8B3D-23E1D726B582.jpg)
-
 ![](/files/images/defcon30wwwdrigs/nthdeg/IMG_1237.jpg)
+
+![](/files/images/defcon30wwwdrigs/nthdeg/7DAAE103-8434-4D98-8B3D-23E1D726B582.jpg)
 
 ## #14 - OIFhax
 
@@ -276,9 +276,11 @@ Discord: icurnet
 
 Twitter: https://twitter.com/icurnet
 
-### Rig Pics
+### Rig Specs
 
 ![](/files/images/defcon30wwwdrigs/icurnet/FY7QUiZWQAIOR_e.png)
+
+### Rig Pics
 
 ![](/files/images/defcon30wwwdrigs/icurnet/FZAB8f6XkAIWUbU.jpg)
 
@@ -440,7 +442,7 @@ Discord: dnsprincess
 
 Twitter: https://twitter.com/dnsprincess
 
-### Rig Specs
+### Rig Pics
 
 ![](/files/images/defcon30wwwdrigs/dnsprincess/dnsprincess_wwwd2022_1.jpg)
 
