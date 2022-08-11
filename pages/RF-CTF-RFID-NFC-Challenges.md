@@ -1,5 +1,4 @@
 # RF CTF RFID NFC Challenges
-
 This should be considered a general list with general information for in person RFID/NFC challenges.
 
 All challenges are subject to change and may be available only if the code or equipment is working.
@@ -8,94 +7,60 @@ Please check with staff if you have any questions.
 ## In Person
 All challenges are currently only available in person.  We hope to add virtual RFID/NFC challenges in the future.  Good luck!
 
+## Tools
+For these challenges you should bring tools for Low Frequency (LF), High Frequency (HF), and Ultra High Frequency (UHF) RFID.
+
+### LF and HF
+Proxmark3 - The Swiss Army Knife of RFID research, paired with the bleeding edge RRG/Iceman firmware & client
+
+### UHF
+Note: Most UHF readers are also capable of writing. 
+
+Some good handheld options with internal antennas are the Zebra MC3190-Z which can be found on eBay for ($80-$130), or a more modern Zebra TC20 wth RFD2000 sled. There are also some untested generic UHF RFID Sleds available from various online retailers
+- https://www.zebra.com/us/en/support-downloads/rfid/rfid-handhelds/mc3190-z.html
+- https://www.zebra.com/us/en/products/rfid/rfid-handhelds/rfd2000.html
+- https://www.zebra.com/us/en/support-downloads/mobile-computers/handheld/tc20.html
+
+Industrial fixed position readers from Impinj or Alien also work well with external antennas.
+
+UHF RFID Modules are another potential option for integrating into your kit:
+- https://www.sparkfun.com/products/14066
+- https://shop.m5stack.com/products/uhf-rfid-unit-jrd-4035
+
+Additionally there are some (currently untested) SDR based UHF RFID reader implementations:
+- https://github.com/AdamLaurie/Gen2-UHF-RFID-Reader
+
 # Challenges
 
-## Clone LF
-
+## RFHS_RFID_PACS_X
 ### Physical
+This time we didn't just bring a building in a box, we brought the parking lot as well. There will be a range of different credential technlogies (LF, HF, UHF), some you can get your hands on, and some placed out of reach requiring creativity and determination.  You will need to use a variety of tools (including a UHF RFID Reader/Writer) and techniques to interact with our PACS (Physical Access Control System).
 
-Borrow the LF credential from the staff and create a clone.
+### Flags
+There are 15 flags of varying difficulty that will be displayed on-screen upon successful presentation to the correct reader.
+
+### Hint
+<details>
+  <summary>Click here to see hint</summary>
+The Road to El Dorado is paved with misconfigurations, but the gate is protected with a PIN, demonstrate mastery over the bits and input a valid PIN on readers without a PIN pad.
+</details>
+
+## RFHS_RFID_UHF_X
+### Physical
+Find the UHF tag with EPC 554846435446 and explore it
 
 ### Flag
+A flag will be revealed to you upon success of this challenge
 
-Present a clone of the LF credential to the staff to receive the flag.
+### Hint
+<details>
+  <summary>Click here to see hint</summary>
+The first 32 bits of the TID are: `E2801140`
+</details>
 
-## T5577
-
+## RFHS_RFID_UHF_Hunt_n
 ### Physical
-
-Borrow the T5577 credential from the staff and find the flag.
+DEF CON is a warehouse and we need your help to take inventory. UHF RFID tags will be everywhere, and details will be announced on Day 1 to start your search.
 
 ### Flag
-
-Properly decoding this card will give you a readable ASCII string which may be submitted to the scoreboard.
-
-## MIFARE Keys
-
-### Physical
-
-Borrow the MIFARE Classic credential from the staff and find the flag.
-
-### Flag
-
-Properly decoding this card will give you a readable ASCII string which may be submitted to the scoreboard.
-
-## MIFARE Clone
-
-### Physical
-
-Borrow the MIFARE Classic credential from the staff and create a clone.
-
-### Flag
-
-Present a clone of the MIFARE Classic credential to the staff to receive the flag.
-
-## iCLASS Clone
-
-### Physical
-
-Borrow the iCLASS credential from the staff and create a clone.
-
-### Flag
-
-Present a clone of the iCLASS credential to the staff to receive the flag.
-
-## MIFARE Contents
-
-### Physical
-
-Borrow the MIFARE Classic credential from the staff and find the flag.
-
-### Flag
-
-Properly decoding the contents of this card will give you a readable ASCII string which may be submitted to the scoreboard.
-
-## DESFire E103
-
-### Physical
-
-Borrow the MIFARE DESFire credential from the staff and find the flag.
-
-### Flag
-
-Properly decoding the contents of this card will give you a readable ASCII string which may be submitted to the scoreboard.
-
-## iCLASS PIN
-
-### Physical
-
-Borrow the iCLASS credential from the staff and find the flag.
-
-### Flag
-
-Properly decoding the contents of this card will give you a readable ASCII string which may be submitted to the scoreboard.
-
-## Downgrade Me
-
-### Physical
-
-Borrow the high security credential from the staff and create a functional clone.
-
-### Flag
-
-Present a functional clone of the high security credential to the staff to receive the flag.
+Flags will be stored in the user memory of matching tags, submit flags as announced.
