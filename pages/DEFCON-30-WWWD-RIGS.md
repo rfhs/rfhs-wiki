@@ -18,11 +18,11 @@ Twitter: https://twitter.com/DustinFinn
 
 ### Rig Pics
 
-![busysignal1](/files/images/defcon30wwwdrigs/busysignal/FZHcvazWYAAJ_ex.jpg)
+![](/files/images/defcon30wwwdrigs/busysignal/FZHcvazWYAAJ_ex.jpg)
 
-![busysignal2](/files/images/defcon30wwwdrigs/busysignal/FX952mPWIAEbY_z.jpg)
+![](/files/images/defcon30wwwdrigs/busysignal/FX952mPWIAEbY_z.jpg)
 
-![busysignal3](/files/images/defcon30wwwdrigs/busysignal/IMG_4385.jpg)
+![](/files/images/defcon30wwwdrigs/busysignal/IMG_4385.jpg)
 
 ## #3 - Spikeroche
 
@@ -38,7 +38,13 @@ Twitter: https://twitter.com/spikeroche
 
 ### Rig Pics
 
+![](/files/images/defcon30wwwdrigs/spikeroche/FZIBP--XwAA0K-d.jpg)
 
+![](/files/images/defcon30wwwdrigs/spikeroche/FYzE7_IWAAAhBJo.jpg)
+
+![](/files/images/defcon30wwwdrigs/spikeroche/FZIAvhTX0AA6eTn.jpg)
+
+![](/files/images/defcon30wwwdrigs/spikeroche/FZIBWQ5WAAEtTpz.jpg)
 
 ## #4 - elkentaro
 
@@ -54,7 +60,7 @@ Twitter: https://twitter.com/elkentaro
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/elkentaro/FZK0hQ6WQAImkwV.jpg)
 
 ## #6 - n00bz
 
@@ -70,7 +76,7 @@ Twitter: https://twitter.com/n00bznet
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/n00bz/FZaJNcQX0AAx2b8.jpg)
 
 ## #7 - PanicAcid
 
@@ -86,7 +92,55 @@ Twitter: https://twitter.com/PanicAcid
 
 ### Rig Pics
 
+![](/files/images/defcon30wwwdrigs/PanicAcid/0.jpg)
 
+![](/files/images/defcon30wwwdrigs/PanicAcid/1.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/2.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/3.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/4.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/5.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/6.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/7.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/8.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/9.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/10.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/11.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/12.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/13.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/14.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/15.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/16.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/17.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/18.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/19.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/20.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/21.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/22.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/23.jpg)
+
+![](/files/images/defcon30wwwdrigs/PanicAcid/24.jpg)
 
 ## #8 - w4www
 
@@ -102,7 +156,7 @@ Twitter: https://twitter.com/w4www_raker
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #9 - aromond
 
@@ -118,7 +172,7 @@ Twitter: https://twitter.com/aromond2001
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #11 - gjc
 
@@ -134,7 +188,7 @@ Twitter: https://twitter.com/g__j__c
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #13 - nthdeg
 
@@ -150,7 +204,7 @@ Twitter: https://twitter.com/infdeg
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #14 - OIFhax
 
@@ -166,7 +220,7 @@ Twitter: https://twitter.com/oifhax07
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #17 - pcunning
 
@@ -182,7 +236,7 @@ Twitter:
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #18 - blinkingthing
 
@@ -198,7 +252,7 @@ Twitter: https://twitter.com/blinkingthing
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #20 - JosephHewitt
 
@@ -214,7 +268,7 @@ Twitter: https://twitter.com/jhewitt_net
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #21 - icurnet
 
@@ -230,7 +284,7 @@ Twitter: https://twitter.com/icurnet
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #25 - r4ndom
 
@@ -246,7 +300,7 @@ Twitter: https://twitter.com/r4ndom_handle
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #29 - bkobe
 
@@ -262,7 +316,7 @@ Twitter: https://twitter.com/kobeski1906/
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #32 - snowman86
 
@@ -278,7 +332,7 @@ Twitter: https://twitter.com/dasnowman86
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #33 - d4rkm4tter
 
@@ -294,7 +348,7 @@ Twitter: https://twitter.com/d4rkm4tter
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #36 - Lozaning (Wigle Balloon)
 
@@ -310,7 +364,7 @@ Twitter: https://twitter.com/lozaning
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #37 - Syntax976
 
@@ -326,7 +380,7 @@ Twitter: https://twitter.com/syntax976
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #40 - andr01d
 
@@ -342,7 +396,7 @@ Twitter: https://twitter.com/rt_andr01d
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #41 - Blaskjar
 
@@ -358,7 +412,7 @@ Twitter:
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #42 - pejacoby
 
@@ -374,7 +428,7 @@ Twitter: https://twitter.com/pejacoby
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #45 - Init_6_
 
@@ -390,7 +444,7 @@ Twitter: https://twitter.com/INIT_6_
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #46 - dnsprincess
 
@@ -406,7 +460,7 @@ Twitter: https://twitter.com/dnsprincess
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #48 - TEQ
 
@@ -422,7 +476,7 @@ Twitter: https://twitter.com/G7UOD_Life
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #69 - glytchtech (nice)
 
@@ -438,7 +492,7 @@ Twitter: https://twitter.com/GlytchTech
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #90 - Oknormy
 
@@ -454,7 +508,7 @@ Twitter: https://twitter.com/OkNormy
 
 ### Rig Pics
 
-
+![](/files/images/defcon30wwwdrigs/)
 
 ## #91 - grymoire
 
@@ -469,6 +523,8 @@ Twitter: https://twitter.com/grymoire
 
 
 ### Rig Pics
+
+![](/files/images/defcon30wwwdrigs/)
 
 ------
 
