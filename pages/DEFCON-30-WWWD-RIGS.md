@@ -18,7 +18,11 @@ Twitter: https://twitter.com/DustinFinn
 
 ### Rig Pics
 
+![](/images/busysignal/FZHcvazWYAAJ_ex.jpg)
 
+![](/images/busysignal/FX952mPWIAEbY_z.jpg)
+
+![](/images/busysignal/IMG_4385.jpg)
 
 ## #3 - Spikeroche
 
