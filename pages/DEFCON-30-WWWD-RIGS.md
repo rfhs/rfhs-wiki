@@ -38,13 +38,13 @@ Twitter: https://twitter.com/spikeroche
 
 ### Rig Pics
 
-![](/files/images/defcon30wwwdrigs/spikeroche/FZIBP--XwAA0K-d.jpg)
+![](/files/images/defcon30wwwdrigs/Spikeroche/FZIBP--XwAA0K-d.jpg)
 
-![](/files/images/defcon30wwwdrigs/spikeroche/FYzE7_IWAAAhBJo.jpg)
+![](/files/images/defcon30wwwdrigs/Spikeroche/FYzE7_IWAAAhBJo.jpg)
 
-![](/files/images/defcon30wwwdrigs/spikeroche/FZIAvhTX0AA6eTn.jpg)
+![](/files/images/defcon30wwwdrigs/Spikeroche/FZIAvhTX0AA6eTn.jpg)
 
-![](/files/images/defcon30wwwdrigs/spikeroche/FZIBWQ5WAAEtTpz.jpg)
+![](/files/images/defcon30wwwdrigs/Spikeroche/FZIBWQ5WAAEtTpz.jpg)
 
 ## #4 - elkentaro
 
