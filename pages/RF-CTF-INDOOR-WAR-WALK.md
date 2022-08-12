@@ -6,7 +6,7 @@ The Indoor War Walk is new event that are doing with collaboration of the RF Hac
 
 This will be scored differently than the WWWD. All foxes are behind locked dorrs inside with in the following grid
 
-![IDWW](/files/images/indoorwarwalk/thegrid.jpg)
+![IDWW](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/indoorwarwalk/thegrid.jpg)
 
 There are 10 foxes within this grid. You will be scored on how many foxes you find out of 10.  The fox SSID and BSSID will not be provided. This is a blind coverage.  The more complete the more foxes.  Your foxes will be scored in wigle. All uploads MUST have location data to be scored in Wigle.
 
