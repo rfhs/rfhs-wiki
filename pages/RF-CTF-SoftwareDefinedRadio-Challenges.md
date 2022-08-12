@@ -147,7 +147,7 @@ Port 6566 has a restaurant pager system.
 
 ### Physical
 
-This system is also running at 422.75 MHz.
+This system is also running at 467.75 MHz.
 
 ### Flag
 submit the full packet (hex string), including the sync word (Excluding preamble)
@@ -156,6 +156,21 @@ submit the full packet (hex string), including the sync word (Excluding preamble
 <details>
   <summary>Click here to see hint</summary>
 Not all pagers use POCSAG.
+</details>
+
+## LRS_PAGER_TX
+
+### Physical
+
+These are LRS pagers in the RF Village.
+
+### Flag
+Tell one of the RF Village Staff that you want to complete this challenge. Trigger the pager they specify based on their directions.
+
+### Hint
+<details>
+  <summary>Click here to see hint</summary>
+You'll need to identify the system that these pagers came from.
 </details>
 
 ## 802_15_4_RX
