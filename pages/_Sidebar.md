@@ -13,7 +13,7 @@
 
  [RF CTF RFID-NFC Challenges](RF-CTF-RFID-NFC-Challenges)
 
- [RF CTF IDWD](RF-CTF-INDOOR-WAR-DRIVE)
+ [RF CTF IDWW](RF-CTF-INDOOR-WAR-WALK)
 
  [Contributing to the wiki](RF-CTF-Contributing-for-points)
 
@@ -33,5 +33,6 @@
 ## Other
 
  [DEFCON-29-WWWD-RIGS](DEFCON-29-WWWD-RIGS)
+ [DEFCON-30-WWWD-RIGS](DEFCON-30-WWWD-RIGS)
 
  [Contributors](zz-contributors)
