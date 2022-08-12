@@ -37,7 +37,9 @@ Lora FOX
 
 Frequency and message will be announced via Twitter
 
+6LoWPAN FOX
 
+MAC address will be announced via Twitter
 
 
 
