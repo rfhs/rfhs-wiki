@@ -14,7 +14,7 @@ For these challenges you should bring tools for Low Frequency (LF), High Frequen
 Proxmark3 - The Swiss Army Knife of RFID research, paired with the bleeding edge RRG/Iceman firmware & client
 
 ### UHF
-Note: Most UHF readers are also capable of writing. 
+Note: Most UHF readers are also capable of writing.
 
 Some good handheld options with internal antennas are the Zebra MC3190-Z which can be found on eBay for ($80-$130), or a more modern Zebra TC20 wth RFD2000 sled. There are also some untested generic UHF RFID Sleds available from various online retailers
 - https://www.zebra.com/us/en/support-downloads/rfid/rfid-handhelds/mc3190-z.html
@@ -36,8 +36,15 @@ Additionally there are some (currently untested) SDR based UHF RFID reader imple
 ### Physical
 This time we didn't just bring a building in a box, we brought the parking lot as well. There will be a range of different credential technlogies (LF, HF, UHF), some you can get your hands on, and some placed out of reach requiring creativity and determination.  You will need to use a variety of tools (including a UHF RFID Reader/Writer) and techniques to interact with our PACS (Physical Access Control System).
 
+5 sets of cards will be at the front table
+
+other sets will be on contestant tables
+
+
+THIS IS A LEARNING JOURNEY
+
 ### Flags
-There are 15 flags of varying difficulty that will be displayed on-screen upon successful presentation to the correct reader.
+There are 15 flags or more depends on the pain we want to deploy of varying difficulty that will be displayed on-screen upon successful presentation to the correct reader.
 
 ### Hint
 <details>
@@ -58,9 +65,20 @@ A flag will be revealed to you upon success of this challenge
 The first 32 bits of the TID are: `E2801140`
 </details>
 
-## RFHS_RFID_UHF_Hunt_n
+## RFHS_RFID_UHF_Hunt_n (Tentative will announce via comms channels)
 ### Physical
 DEF CON is a warehouse and we need your help to take inventory. UHF RFID tags will be everywhere, and details will be announced on Day 1 to start your search.
 
 ### Flag
 Flags will be stored in the user memory of matching tags, submit flags as announced.
+
+
+## Wireless OSDP
+
+This is a wild one, this will be hard
+
+you will need to relay from one place to another
+
+attacks against the wireless interface is in play to inject data
+
+This is new bring your A game even googling will be hard

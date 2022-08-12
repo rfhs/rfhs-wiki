@@ -13,7 +13,7 @@
 
  [RF CTF RFID-NFC Challenges](RF-CTF-RFID-NFC-Challenges)
 
- [RF CTF WWWD](RF-CTF-WWWD)
+ [RF CTF IDWD](RF-CTF-INDOOR-WAR-DRIVE)
 
  [Contributing to the wiki](RF-CTF-Contributing-for-points)
 

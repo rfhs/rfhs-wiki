@@ -1,8 +1,12 @@
-# RFCTF WWWD - World Wide War Drive
+# RFCTF INDOOR WAR WALK the A/C edition
 
-## Info 
+## Info
 
-The World Wide War Drive drive is an annual event (so far) that is put on with collaboration of the RF Hackers Sanctuary and [Wigle.net](https://wigle.net) team. Contestants drive, walk, dance, and skateboard all while mapping access points. Specific rules or scenarios may change between events, but the following is general information to get started. 
+The Indoor War Walk is new event that are doing with collaboration of the RF Hackers Sanctuary and [Wigle.net](https://wigle.net) team. Contestants walk, dance, and skateboard all while mapping access points in VEGAS like yes in the state of Nevada.  This will be the largest indoor Wireless Survey with location data.
+
+This will be scored differently than the WWWD. All foxes are behind locked dorrs inside with in the following grid (INSERT JPEG)
+
+There are 10 foxes within this grid. You will be scored on how many foxes you find out of 10.  The fox SSID and BSSID will not be provided. This is a blind coverage.  The more complete the more foxes.  Your foxes will be scored in wigle. All uploads MUST have location data to be scored in Wigle.
 
 ## Hardware
 The are two main categories for hardware, computers and Android devices. Each have their pros and cons, but an Android device and the Wigle app will most likely be the easiest to start with. Possibly no cost if you already have the device.
@@ -27,12 +31,13 @@ Kismet allows for more options and flexibility with hardware. For example, you c
 When using Raspberry Pi, a Raspberry Pi 4 is recommended due to having much better performance than its predecessors. It's not that it won't work, but it may not work well.
 
 #### GPS
-You will need a GPS source to feed your location to Kismet. [Wytshadow's video](https://www.youtube.com/watch?v=2h8H3XEgWvw) may help you decide which is best for you. If you can't get your GPS to lock, or it loses its lock, you have [USB 3 interference](https://www.usb.org/sites/default/files/327216.pdf). USB 3 interference largely affects devices at 2.4GHz (which will also inhibit you from hearing devices you're attempting to detect), but depending on the level it could affect GPS receivers as well.  
+Portable Wigle devices have a location without GPS feature (you are welcome and good luck this is your only warning)
+You will need a GPS source to feed your location to Kismet. [Wytshadow's video](https://www.youtube.com/watch?v=2h8H3XEgWvw) may help you decide which is best for you. If you can't get your GPS to lock, or it loses its lock, you have [USB 3 interference](https://www.usb.org/sites/default/files/327216.pdf). USB 3 interference largely affects devices at 2.4GHz (which will also inhibit you from hearing devices you're attempting to detect), but depending on the level it could affect GPS receivers as well.
 - [GM-3N](https://www.amazon.com/GM-3N-professional-Receiver-adjustable-GPS/dp/B07BPM9C1Q)
 - [GlobalSat BU-353-S4](https://www.amazon.com/GlobalSat-BU-353-S4-Receiver-Black-Improved-New/dp/B098L799NH)
 - [VK-172 GPS/GLONASS](https://www.amazon.com/Diymall-G-Mouse-Glonass-Raspberry-Aviation/dp/B00NWEEWW8/)
 
-If you don't can't procure a hardware GPS for whatever reason, you can use one of the following apps which should allow you to connect to GPSD on your host hardware. 
+If you don't can't procure a hardware GPS for whatever reason, you can use one of the following apps which should allow you to connect to GPSD on your host hardware.
 - [Share GPS - Android](https://play.google.com/store/apps/details?id=com.jillybunch.shareGPS)
 - [GPSd Client - Android](https://play.google.com/store/apps/details?id=io.github.tiagoshibata.gpsdclient)
 - [NMEA Gps - iOS](https://apps.apple.com/us/app/nmea-gps/id590868529)
@@ -63,7 +68,7 @@ It's important to know where you've been and where you want to go. Planning your
 
 
 ### Wigle app
-The Wigle app also has a feature that will allow track where you have been. 
+The Wigle app also has a feature that will allow track where you have been.
 - "Display routes for execution" will overlay the route you have taken since the app was launched.
 - "Log routes for execution" will log your route, and can be viewed and exported as a GPX file via the Database page.
 

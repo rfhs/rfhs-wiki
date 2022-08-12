@@ -222,13 +222,129 @@ Your message to the ISS must include the following string to count DEFCON@twitte
 
 
 
+## Tempest
+
+Computer set up with fake monitor
+
+You need to caputure the signal off the cable and reproduce the video signal
+
+once you have an image of the screen there will be text on multiple line going from large to small the smaller the text the more points
+
+submit text displayed to flag submission area
+
+
+## FPV
+
+See What Ive Got
+submit what the camera sees into the flag submission
+
+
+## WOODY SECTION
+
+
+
+### Wifi Hot Spot
+
+Part 1
+Within Range of our table is a hotspot present finish the statement Broadcast name "woody says XXXXX"
+The XXXXX are the flag to be entered
+
+Part 2
+Give us the MAC strait hex no dots as the flag
+
+Part 3 (Tentative)
+Crack the handshake submit the password as the flag
+
+
+### TPMS
+
+Part 1
+
+The flag is the full TPMS hex identifier not including the preamble
+put into flag submission in hex
+
+Part 2
+
+The flag is whole number PSI followed by Temperature
+put into flag submission
+example 100200
+
+Part 3
+
+Flag
+Provide the entire hex code from the very first character from preamble through checksum that will give you 4psi to Woody to confirm
+put into flag submission in hex
+
+### Ford Key Fob
+
+Key Fob A will provide a lock and unlock signal
+Key Fob B will provide a lock signal
+
+Flag
+you will need to provide the full character set including the identifier of Keyfob B and the characters that represent the unlock sequence and nothing that follows
+put into flag submission in hex
+
+***SEE WOODY***
+
+***FOLLOW ON FOR KEYFOB FOX***
+
+The keyfob identifier from Keyfob B will be the Keyfob you are tracking down.
+
+
+
+### Make Ford Key Fob Speak
+
+This is a tough one
+
+Part 1
+There is an RFID emitter on the front table
+
+Flag
+you must capture the signal and demod it
+submit full hex to flag submission
+
+Part 2
+
+not dependent on part 1
+
+Use the RFID signal that you received in part one can be used to complete this challenge with the fob on the table
+
+Flag
+submit the first 16 characters of hex of key identifier and the command it gave not counting preamble
 
 
 
 
+### Hit My Caddy
+
+This is a tough one
+
+Keyfob A will broadcast a lock and unlock an another lock
+
+Keyfob B will broadcast a lock
+
+Each identifier is less than 20 bytes
 
 
+Flag
+Keyfob A identifier
 
+Keyfob B identifier
+
+Including preamble provide the unlock sequence for Keyfob B
+
+put into flag submission in hex for each keyfob
+
+
+### LORA
+
+Flag
+Submit the hex message for the LORA no MAC no date time stamp
+
+
+### IRIDIUM (Maybe if we are lucky)
+
+will announce and update when ready
 
 
 
@@ -249,8 +365,3 @@ http://www.sigidwiki.com/wiki/
 
 
 IN PERSON
-
-
-
-
-
