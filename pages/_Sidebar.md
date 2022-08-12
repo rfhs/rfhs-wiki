@@ -33,6 +33,7 @@
 ## Other
 
  [DEFCON-29-WWWD-RIGS](DEFCON-29-WWWD-RIGS)
+
  [DEFCON-30-WWWD-RIGS](DEFCON-30-WWWD-RIGS)
 
  [Contributors](zz-contributors)
