@@ -61,25 +61,28 @@ Follow the http access instructions to connect to the virtual environment via ht
 
 The entire virtual wifi environment is fair game.
 
-
 If you can see it, you probably want to hack it.
 
+In person you only have permission to attack our equipment.  They are labled accordingly.
 
-The challenges are specifically following the ESSID naming convention "RFHS_CTF_##" where ## is a number from 00 through 18 (numbers do NOT indicate difficulty).
+The challenges are specifically following the ESSID naming convention "RFHS_RFCTF_##" where ## is a number from 00 through 21 (numbers do NOT indicate difficulty).
 
 
 Each of these wifi devices will offer a different configuration or challenge.
 
 
-Please use the included dictionary file for all password cracking needs, you will find it conveniently in your home directory in the virtual environment.
+
+Please use the included dictionary file for all password cracking needs, you will find it conveniently in your home directory in the virtual environment. For those playing in person you get the dictionary file here.
+
+https://github.com/rfhs/rfctf-files
 
 
-Beginner level challenges for the most common configs are specifically available as "RFHS_CTF_WEP" and "RFHS_CTF_WPA".  These challenges are lower point value but great for starting out or practicing before attacking the main challenges.  The simple step-by-step guides available via google should work well for these, while the main challenges often require some additional finesse.
+Beginner level challenges for the most common configs are specifically available as "RFHS_RFCTF_WEP" and "RFHS_RFCTF_WPA".  These challenges are lower point value but great for starting out or practicing before attacking the main challenges.  The simple step-by-step guides available via google should work well for these, while the main challenges often require some additional finesse.
 
 ## Flag
 
 
-* For WEP based challenges, submit the wep key in ascii or hex.  If you submit in hex, it should be all upper case with no separaters. (FEED00C0FFEE not fe:ed:00:c0:ff:ee)
+* For WEP based challenges, submit the wep key in ascii or hex.  If you submit in hex, it should be with no separaters. (FEED00C0FFEE not fe:ed:00:c0:ff:ee)
 
 
 * For WPA based challenges, submit the wpa passphrase (PSK/SAE) or user password (Enterprise)
@@ -88,7 +91,7 @@ Beginner level challenges for the most common configs are specifically available
 * For challenges without a shared key (open, etc), there is a user passing credentials in a cleartext format, sniff it out and submit the password.
 
 
-* You can connect to RFHS_CTF_12 and navigate to the router from a web browser for a flag.
+* You can connect to RFHS_RFCTF_12 & RFHS_RFCTF_19 and navigate to the router from a web browser for a flag.
 
 ## Hints
 
@@ -106,7 +109,7 @@ Beginner level challenges for the most common configs are specifically available
 * Kismet is your friend.  Aircrack-ng is a good acquaintance but not always a friend.
 
 
-* There are devices for RFHS_CTF_00 through RFHS_CTF_18 *inclusive*, no numbers are missing.  Find it.
+* There are devices for RFHS_RFCTF_00 through RFHS_RFCTF_21 *inclusive*, no numbers are missing.  Find it.
 
 
 * If you get stuck, ask for help in discord.  It's always worth trying.
