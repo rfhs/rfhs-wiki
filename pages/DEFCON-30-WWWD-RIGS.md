@@ -208,7 +208,7 @@ Twitter: https://twitter.com/infdeg
 
 ### Rig Pics
 
-![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/nthdeg/IMG_1237.jpg)
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/nthdeg/IMG_1364.jpg)
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/nthdeg/7DAAE103-8434-4D98-8B3D-23E1D726B582.jpg)
 
