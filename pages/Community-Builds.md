@@ -714,4 +714,4 @@ Twitter: https://twitter.com/grim0us
 
 **Rig Pics**
 
-![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/communitybuilds/grim0us/FaeWz0tWQAEyOp3.jpg)
+![](/files/images/communitybuilds/grim0us/FaeWz0tWQAEyOp3.jpg)
