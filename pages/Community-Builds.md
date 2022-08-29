@@ -710,6 +710,7 @@ Twitter: https://twitter.com/grymoire
 **Social Media**
 
 Discord: grim0us
+
 Twitter: https://twitter.com/grim0us
 
 **Rig Pics**
