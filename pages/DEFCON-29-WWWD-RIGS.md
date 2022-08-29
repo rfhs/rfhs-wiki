@@ -25,7 +25,7 @@ we can add more if needed or a new page for new pics not associated with DEFCON2
 
 ## cranckylinuxuser
 
-![IMG_20210803_092410](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/cranckylinuxuser/IMG_20210803_092410.jpg)
+![IMG_20210803_092410](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/crankylinuxuser/IMG_20210803_092410.jpg)
 
 ## checkball
 

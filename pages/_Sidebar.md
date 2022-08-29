@@ -32,6 +32,8 @@
 
 ## Other
 
+ [Community Builds](Community-Builds)
+
  [DEFCON-29-WWWD-RIGS](DEFCON-29-WWWD-RIGS)
 
  [DEFCON-30-WWWD-RIGS](DEFCON-30-WWWD-RIGS)
