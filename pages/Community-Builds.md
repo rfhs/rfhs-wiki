@@ -81,6 +81,7 @@ Discord: PanicAcid
 Twitter: https://twitter.com/PanicAcid
 
 **Events**
+- DEFCON 29 WWWD
 - DEFCON 30 WWWD
 
 **Rig Pics**
@@ -135,6 +136,16 @@ Twitter: https://twitter.com/PanicAcid
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/PanicAcid/24.jpg)
 
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/panicacid/E8O4Rd7XoAM_IqY.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/panicacid/E8O4RDJX0AEvdMT.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/panicacid/E8YI3CuXoAEY3ar.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/panicacid/E8YI3r3WQAEjcGk.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/panicacid/E8YI4P6WUAIxsoE.jpeg)
+
 ## w4www
 
 **Social Media**
@@ -179,6 +190,7 @@ Discord: aromond
 Twitter: https://twitter.com/aromond2001
 
 **Events**
+- DEFCON 29 WWWD
 - DEFCON 30 WWWD
 
 **Rig Pics**
@@ -304,6 +316,7 @@ Twitter: https://twitter.com/blinkingthing
 Twitter: https://twitter.com/jhewitt_net
 
 **Events**
+- DEFCON 29 WWWD
 - DEFCON 30 WWWD
 
 **Rig Pics**
@@ -410,6 +423,7 @@ Discord: lozaning
 Twitter: https://twitter.com/lozaning
 
 **Events**
+- DEFCON 29 WWWD
 - DEFCON 30 WWWD
 
 **Rig Pics**
@@ -427,6 +441,8 @@ Twitter: https://twitter.com/lozaning
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/lozaning/FZU2AMoXkAMj9sX.jpg)
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/lozaning/FZU4iR5WAAAhaHX.jpg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/lozaning/E8tXEtIWUAUsHSB.jpeg)
 
 ## Syntax976
 
@@ -548,12 +564,12 @@ Twitter: https://twitter.com/G7UOD_Life
 Twitter: https://twitter.com/GlytchTech
 
 **Events**
+- DEFCON 29 WWWD
 - DEFCON 30 WWWD
 
 **Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/glytchtech/FZgQhb0UEAEhG7g.jpg)
-
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/glytchtech/E8DQBmAWYAUWcaq.jpeg)
 
@@ -623,3 +639,68 @@ Twitter: https://twitter.com/grymoire
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/czechball/IMG_20210804_180752.jpg)
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/czechball/IMG_20210804_180812.jpg)
+
+## kk4zuu
+
+**Events**
+- DEFCON 29 WWWD
+
+**Rig Pics**
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E7gpTXKXEAExJ8R.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E7pw0odX0AAQ5vp.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E7pw1ptWQAEkhrF.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E7uwxznWEAgYE2_.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E7veUCDX0AY0P9x.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E7veUCiWQAAvxdL.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E8PPG8TX0AAXiaS.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E8ZSUABWEAIx3UE.jpeg)
+
+## mdogherra
+
+**Events**
+- DEFCON 29 WWWD
+
+**Rig Pics**
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/mdogherra/E76Y8RuUYAYj0og.jpeg)
+
+## randomtangent
+
+**Events**
+- DEFCON 29 WWWD
+
+**Rig Pics**
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/randomtangent/E74xPN-WYAAU-ba.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/randomtangent/E74xPOAWEA0l0FH.jpeg)
+
+## ted
+
+**Events**
+- DEFCON 29 WWWD
+
+**Rig Pics**
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/ted/tacotennas.jpg)
+
+## wytshadow
+
+**Events**
+- DEFCON 29 WWWD
+
+**Rig Pics**
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/wytshadow/E8ZMEqxVcAI6kE8.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/wytshadow/E8ZMEqyUcAQfL5s.jpeg)
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/wytshadow/E8ZMEuIVgAEttgg.jpeg)
