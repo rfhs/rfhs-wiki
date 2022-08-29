@@ -6,16 +6,16 @@ Join the Discord! Share your pictures with the #wardriving channel, or submit a 
 
 ## busysignal
 
-** Social Media **
+**Social Media**
 
 Discord: dustinfinn
 
 Twitter: https://twitter.com/DustinFinn
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/busysignal/FZHcvazWYAAJ_ex.jpg)
 
@@ -25,16 +25,16 @@ Twitter: https://twitter.com/DustinFinn
 
 ## Spikeroche
 
-** Social Media **
+**Social Media**
 
 Discord: SpikeRoche
 
 Twitter: https://twitter.com/spikeroche
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/Spikeroche/FZIBP--XwAA0K-d.jpg)
 
@@ -46,44 +46,44 @@ Twitter: https://twitter.com/spikeroche
 
 ## elkentaro
 
-** Social Media **
+**Social Media**
 
 Discord: elkentaro
 
 Twitter: https://twitter.com/elkentaro
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/elkentaro/FZK0hQ6WQAImkwV.jpg)
 
 ## n00bz
 
-** Social Media **
+**Social Media**
 
 Twitter: https://twitter.com/n00bznet
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/n00bz/FZaJNcQX0AAx2b8.jpg)
 
 ## PanicAcid
 
-** Social Media **
+**Social Media**
 
 Discord: PanicAcid
 
 Twitter: https://twitter.com/PanicAcid
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/PanicAcid/0.jpg)
 
@@ -137,16 +137,16 @@ Twitter: https://twitter.com/PanicAcid
 
 ## w4www
 
-** Social Media **
+**Social Media**
 
 Discord: raker w4www
 
 Twitter: https://twitter.com/w4www_raker
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/w4www/E0B2EFFA-9394-4D32-BFB2-446DD171ECE8.jpg)
 
@@ -172,16 +172,16 @@ Twitter: https://twitter.com/w4www_raker
 
 ## aromond
 
-** Social Media **
+**Social Media**
 
 Discord: aromond
 
 Twitter: https://twitter.com/aromond2001
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/aromond/55063731-18CB-46A1-9BAB-829480D0F34F.jpg)
 
@@ -206,16 +206,16 @@ Twitter: https://twitter.com/aromond2001
 
 ## gjc
 
-** Social Media **
+**Social Media**
 
 Discord: GJCHester
 
 Twitter: https://twitter.com/g__j__c
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/gjc/F5A776D8-F9BD-4649-ADF3-DEDFBA7C7E06.jpg)
 
@@ -229,16 +229,16 @@ Twitter: https://twitter.com/g__j__c
 
 ## nthdeg
 
-** Social Media **
+**Social Media**
 
 Discord: infdeg
 
 Twitter: https://twitter.com/infdeg
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/nthdeg/IMG_1364.jpg)
 
@@ -246,16 +246,16 @@ Twitter: https://twitter.com/infdeg
 
 ## OIFhax
 
-** Social Media **
+**Social Media**
 
 Discord: OIFhax
 
 Twitter: https://twitter.com/oifhax07
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/OIFhax/20220801_093036.jpg)
 
@@ -271,14 +271,14 @@ Twitter: https://twitter.com/oifhax07
 
 ## pcunning
 
-** Social Media **
+**Social Media**
 
 Discord: pcunning
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/pcunning/85B9D2F9-EA87-4398-9BF1-569CACE9E406.jpg)
 
@@ -286,27 +286,27 @@ Discord: pcunning
 
 ## blinkingthing
 
-** Social Media **
+**Social Media**
 
 Twitter: https://twitter.com/blinkingthing
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/blinkingthing/FZNhJPZUcAAQQMY.jpg)
 
 ## JosephHewitt
 
-** Social Media **
+**Social Media**
 
 Twitter: https://twitter.com/jhewitt_net
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/JosephHewitt/FZGFwqQWYAEKkiG.jpg)
 
@@ -314,7 +314,7 @@ Twitter: https://twitter.com/jhewitt_net
 
 ## icurnet
 
-** Social Media **
+**Social Media**
 
 Discord: icurnet
 
@@ -324,10 +324,10 @@ Twitter: https://twitter.com/icurnet
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/icurnet/FY7QUiZWQAIOR_e.png)
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/icurnet/FZAB8f6XkAIWUbU.jpg)
 
@@ -335,31 +335,31 @@ Twitter: https://twitter.com/icurnet
 
 ## r4ndom
 
-** Social Media **
+**Social Media**
 
 Discord: r4ndom_handle
 
 Twitter: https://twitter.com/r4ndom_handle
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/r4ndom/FZMAB_pXEAsKVTy.jpg)
 
 ## bkobe
 
-** Social Media **
+**Social Media**
 
 Discord: bkobe
 
 Twitter: https://twitter.com/kobeski1906/
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/bkobe/FZUwgkHWIAAK9_T.jpg)
 
@@ -375,27 +375,27 @@ Twitter: https://twitter.com/kobeski1906/
 
 ## snowman86
 
-** Social Media **
+**Social Media**
 
 Twitter: https://twitter.com/dasnowman86
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/snowman86/FZZ8gbiX0AAbUI_.jpg)
 
 ## d4rkm4tter
 
-** Social Media **
+**Social Media**
 
 Twitter: https://twitter.com/d4rkm4tter
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/d4rkm4tter/FZnvdw1XwAUCflG.jpg)
 
@@ -403,16 +403,16 @@ Twitter: https://twitter.com/d4rkm4tter
 
 ## Lozaning
 
-** Social Media **
+**Social Media**
 
 Discord: lozaning
 
 Twitter: https://twitter.com/lozaning
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/lozaning/FYzL0zbXgAcwSbl.jpg)
 
@@ -430,14 +430,14 @@ Twitter: https://twitter.com/lozaning
 
 ## Syntax976
 
-** Social Media **
+**Social Media**
 
 Twitter: https://twitter.com/syntax976
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/Syntax976/FZWn5gmXEAAtFpO.jpg)
 
@@ -445,16 +445,16 @@ Twitter: https://twitter.com/syntax976
 
 ## andr01d
 
-** Social Media **
+**Social Media**
 
 Discord: andr01d
 
 Twitter: https://twitter.com/rt_andr01d
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/andr01d/20220806_162724.jpg)
 
@@ -470,14 +470,14 @@ Twitter: https://twitter.com/rt_andr01d
 
 ## Blaskjar
 
-** Social Media **
+**Social Media**
 
 Discord: dandri
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/Blaskjar/20220804_211136.jpg)
 
@@ -485,57 +485,57 @@ Discord: dandri
 
 ## pejacoby
 
-** Social Media **
+**Social Media**
 
 Twitter: https://twitter.com/pejacoby
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/pejacoby/FZM8ocwXwAENqrr.jpg)
 
 ## Init_6_
 
-** Social Media **
+**Social Media**
 
 Discord: INIT_6_
 
 Twitter: https://twitter.com/INIT_6_
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/INIT_6_/FZINBrNX0AA-J15.jpg)
 
 ## dnsprincess
 
-** Social Media **
+**Social Media**
 
 Discord: dnsprincess
 
 Twitter: https://twitter.com/dnsprincess
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/dnsprincess/dnsprincess_wwwd2022_1.jpg)
 
 ## TEQ
 
-** Social Media **
+**Social Media**
 
 Twitter: https://twitter.com/G7UOD_Life
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/TEQ/FTCCKgjWIAAfyvw.jpg)
 
@@ -543,14 +543,14 @@ Twitter: https://twitter.com/G7UOD_Life
 
 ## glytchtech (nice)
 
-** Social Media **
+**Social Media**
 
 Twitter: https://twitter.com/GlytchTech
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/glytchtech/FZgQhb0UEAEhG7g.jpg)
 
@@ -559,16 +559,16 @@ Twitter: https://twitter.com/GlytchTech
 
 ## Oknormy
 
-** Social Media **
+**Social Media**
 
 Discord: OKnormy
 
 Twitter: https://twitter.com/OkNormy
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/OkNormy/FZfRMXDXkAI-ZYe.jpg)
 
@@ -576,16 +576,16 @@ Twitter: https://twitter.com/OkNormy
 
 ## grymoire
 
-** Social Media **
+**Social Media**
 
 Discord: grymoire
 
 Twitter: https://twitter.com/grymoire
 
-** Events **
+**Events**
 - DEFCON 30 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/grymoire/FZZiLrqXoAAusSD.jpg)
 
@@ -595,28 +595,28 @@ Twitter: https://twitter.com/grymoire
 
 ## blackwolf
 
-** Events **
+**Events**
 - DEFCON 29 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/blackwolf/E7zWUBQWQAEsSDe.jpeg)
 
 ## cranckylinuxuser
 
-** Events **
+**Events**
 - DEFCON 29 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/crankylinuxuser/IMG_20210803_092410.jpg)
 
 ## checkball
 
-** Events **
+**Events**
 - DEFCON 29 WWWD
 
-** Rig Pics **
+**Rig Pics**
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/czechball/E78HkYlWUAEpWyN.jpeg)
 
