@@ -704,3 +704,14 @@ Twitter: https://twitter.com/grymoire
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/wytshadow/E8ZMEqyUcAQfL5s.jpeg)
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/wytshadow/E8ZMEuIVgAEttgg.jpeg)
+
+## grim0us
+
+**Social Media**
+
+Discord: grim0us
+Twitter: https://twitter.com/grim0us
+
+**Rig Pics**
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/communitybuilds/grim0us/FaeWz0tWQAEyOp3.jpg)
