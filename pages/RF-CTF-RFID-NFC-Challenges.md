@@ -41,7 +41,7 @@ We didn't just bring a building in a box, we brought the parking lot as well. Th
 ### Rules
 - Sets of cards will be available at the front table and spread out on a few contestant tables.
 - You can interact with the badges, you can interact with the readers, but you can't take the badges to the readers.
-- Do not attempt to reconfigure the readers.
+- Do not reconfigure the readers.
 - THIS IS A LEARNING JOURNEY, HAVE FUN!
 
 There are 16 flags of varying difficulty (maybe more depending on how we're feeling): 
