@@ -23,9 +23,9 @@ we can add more if needed or a new page for new pics not associated with DEFCON2
 ![E7zWUBQWQAEsSDe](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/blackwolf/E7zWUBQWQAEsSDe.jpeg)
 
 
-## cranckylinuxuser
+## crankylinuxuser
 
-![IMG_20210803_092410](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/cranckylinuxuser/IMG_20210803_092410.jpg)
+![IMG_20210803_092410](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/crankylinuxuser/IMG_20210803_092410.jpg)
 
 ## checkball
 
@@ -51,7 +51,7 @@ we can add more if needed or a new page for new pics not associated with DEFCON2
 
 ![E7pw1ptWQAEkhrF](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E7pw1ptWQAEkhrF.jpeg)
 
-![E7uwxznWEAgYE2_](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/E7uwxznWEAgYE2_.jpeg)
+![E7uwxznWEAgYE2_](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E7uwxznWEAgYE2_.jpeg)
 
 ![E7veUCDX0AY0P9x](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/kk4zuu/E7veUCDX0AY0P9x.jpeg)
 
@@ -73,7 +73,7 @@ we can add more if needed or a new page for new pics not associated with DEFCON2
 
 ![E8O4Rd7XoAM_IqY](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/panicacid/E8O4Rd7XoAM_IqY.jpeg)
 
-![E8O4RDJX0AEvdMT](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/panicacid/E8O4RDJX0AEvdMT)
+![E8O4RDJX0AEvdMT](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/panicacid/E8O4RDJX0AEvdMT.jpeg)
 
 ![E8YI3CuXoAEY3ar](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon29wwwdrigs/panicacid/E8YI3CuXoAEY3ar.jpeg)
 
