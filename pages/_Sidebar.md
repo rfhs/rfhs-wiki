@@ -17,6 +17,8 @@
 
  [Contributing to the wiki](RF-CTF-Contributing-for-points)
 
+ [RF CTF Magic Mixies](RF-CTF-Magic-Mixies)
+
 ## Resources
  [WiFi](WiFi)
 
