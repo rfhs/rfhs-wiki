@@ -46,7 +46,7 @@ We found creative ways to put out a "fox" see [RF-CTF-FoxHunt](RF-CTF-FoxHunt)
 
 ## Wordlist
 
-[fava_beans](https://github.com/rfhs/rfctf-files)
+[Fava_Beans](https://github.com/rfhs/rfctf-files)
 
 
 *The wordlist is also present in the /root directory of the contestant virtual environments*
