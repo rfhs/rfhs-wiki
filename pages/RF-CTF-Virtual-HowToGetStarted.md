@@ -46,7 +46,7 @@ We found creative ways to put out a "fox" see [RF-CTF-FoxHunt](RF-CTF-FoxHunt)
 
 ## Wordlist
 
-[WIGLE](https://github.com/rfhs/rfctf-files/raw/master/wordlist/wigle.words)
+[WIGLE](https://github.com/rfhs/rfctf-files)
 
 
 *The wordlist is also present in the /root directory of the contestant virtual environments*
