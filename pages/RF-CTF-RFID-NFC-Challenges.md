@@ -32,11 +32,20 @@ UHF RFID Modules are another potential option for integrating into your kit:
 
 Additionally there are some (currently untested) SDR based UHF RFID reader implementations:
 - https://github.com/AdamLaurie/Gen2-UHF-RFID-Reader
+- https://shop.m5stack.com/products/uhf-rfid-unit-jrd-4035
 
 # Challenges
 
 ## Physical Access Control System (PACS) Box
 We didn't just bring a building in a box, we brought the parking lot as well. There will be a range of different credential technlogies (LF, HF, UHF), some you can get your hands on, and some placed out of reach requiring creativity and determination.  You will need to use a variety of tools (including a UHF RFID Reader/Writer) and techniques to interact with our access control system.
+
+Our facility recently upgraded some of our credentials to a special secure bit format:
+
+```
+PFFFFFFFFFFFFFFFFIIIICCCCCCCCCCCCCCCCCCCCP
+E E E E E E E E E E EO O O O O O O O O O O
+```
+
 
 ### Rules
 - Sets of cards will be available at the front table and spread out on a few contestant tables.
@@ -73,6 +82,12 @@ Flag will be revealed upon presentation of the clone to the correct reader.
 ## RFHS_RFID_PACS_HF_Elite_Clone
 ### Physical
 Create a working clone of Clarice's badge.
+### Flag
+Flag will be revealed upon presentation of the clone to the correct reader.
+
+## RFHS_RFID_PACS_HF_Elite_Brute
+### Physical
+Find another valid credential in the system.
 ### Flag
 Flag will be revealed upon presentation of the clone to the correct reader.
 
@@ -128,4 +143,4 @@ Flag will be revealed when relayed to the correct reader.
 ### Physical
 Extract the contents of Paul's badge...
 ### Flag
-The flag is the data in blocks 10 & 11 concatenated with no spaces, in uppercase.
+Present the contents for verification to recieve the flag.
