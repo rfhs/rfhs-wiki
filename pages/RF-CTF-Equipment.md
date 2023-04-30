@@ -21,7 +21,7 @@ Long Range Systems manufacture several versions of pagers and paging devices. At
 
 Each pager is similar to what you would find at a restaurant. Check the scoreboard for what challenges are live, but if you see this you might need to receive and or transmit packets to and from these devices. LRS usually involves a restaurant id, and a pager id. These numbers are useful and you should figure out how to find them and use them
 
-![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/rfhsctftable/lrspager.JPG)
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/rfctfequipment/lrspager.JPG)
 
 
 ## ICS
