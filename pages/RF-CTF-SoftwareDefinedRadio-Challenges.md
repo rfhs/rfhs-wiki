@@ -26,7 +26,7 @@ Properly decoding this signal will give you a readable ascii string which may be
 ### Hint
 <details>
   <summary>Click here to see hint</summary>
-Commonly available ham radio software can be used to decode this.  Examples include: fldigi, qsstv, direwolf, minimodem, wsjtx.  For help identifying ham digital modes visit the [sigidwiki amateur radio page.](https://www.sigidwiki.com/wiki/Categor)
+Commonly available ham radio software can be used to decode this.  Examples include: fldigi, qsstv, direwolf, minimodem, wsjtx.  For help identifying ham digital modes visit the [sigidwiki amateur radio page.](https://www.sigidwiki.com/wiki/Category)
 </details>
 
 ## HAM_SSTV_1
