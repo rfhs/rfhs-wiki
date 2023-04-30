@@ -41,3 +41,5 @@
  [DEFCON-30-WWWD-RIGS](DEFCON-30-WWWD-RIGS)
 
  [Contributors](zz-contributors)
+
+ [RFHS CTF Table Devices](RF-CTF-Table-Devices.md)
