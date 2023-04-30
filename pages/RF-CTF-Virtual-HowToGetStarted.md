@@ -7,7 +7,7 @@ We cater to both those who are new to radio communications as well as to those w
 
 ## How do I play?
 
-1. Make an account on the scoreboard by going to https://scoreboard.rfhackers.com/?wtf=login and clicking register.
+1. Make an account on the scoreboard by going to https://scoreboard.rfhackers.com/register
 
 2. Make a team or join a team when registering your user.
 
@@ -16,7 +16,7 @@ We cater to both those who are new to radio communications as well as to those w
 4. Have fun and learn.
 
 
-To score you will need to submit flags: https://scoreboard.rfhackers.com/?wtf=scoreboard
+To score you will need to submit flags: https://scoreboard.rfhackers.com/scoreboard
 
 Go Here For Resources: https://rfhackers.com/resources/
 
