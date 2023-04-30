@@ -65,6 +65,7 @@ These tools can be used for discovery, auditing, or cracking.
 * [Reaver](https://github.com/t6x/reaver-wps-fork-t6x)
 * [Fern Wifi Cracker](https://github.com/savio-code/fern-wifi-cracker)
 * [bully](https://github.com/aanarchyy/bully)
+* [wacker](https://github.com/blunderbuss-wctf/wacker)
 
 ### Collect
 These tools can be used for the information collection of one or more targeted wireless networks.
