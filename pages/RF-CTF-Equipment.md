@@ -30,11 +30,6 @@ New players potentially beware: Some long time veteran teams have dedicated hard
 
 
 ## 6LoWPAN
-Pictured are two devices that utilize 6LoWPAN, one sends a temperature value to the other that is then displayed on the screen. 6LoWPAN is an acronym for "IPv6 over Low-Power Wireless Personal Area Networks". Protocols like Thread Matter and Zigbee may operate ontop of it. With the proper adapter these signals can be sniffed and analyzed within Wireshark. In order to change the display value you first need to identify what a valid packet looks like and what values it expects. 
-
-![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/rfctfequipment/6lowpan1.JPG)
-![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/rfctfequipment/6lowpan2.JPG)
- 
 
 ## LRS Pagers
 Long Range Systems manufacture several versions of pagers and paging devices. At the table you may notice something similar to the one in this image:
