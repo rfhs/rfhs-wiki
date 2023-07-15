@@ -45,3 +45,8 @@ Each pager is similar to what you would find at a restaurant. Check the scoreboa
 Pictured below is the RFID Building in a Box. Within you will notice several different types of RFID readers and keypads, all of which are commonly found in buildings. These readers support different types of rfid cards. There will be an accompanying selection of cards available at the table, often on a big wire loop. Challenges are usually for each type of badge or specific attacks on certain card types. Inspect the rfid cards, it may also be helpful to pay attention to the markings on the cards. 
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/rfctfequipment/rfidbib.JPG)
+
+## Magic Mixie
+This most magical of challenges will put your wand skills to the test. Have you gone to the wand academy? If not you should.
+
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/rfctfequipment/rfidbib.JPG)
