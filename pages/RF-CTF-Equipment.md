@@ -30,6 +30,7 @@ New players potentially beware: Some long time veteran teams have dedicated hard
 
 
 ## 6LoWPAN
+![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/rfctfequipment/6lowpan.JPG)
 
 ## LRS Pagers
 Long Range Systems manufacture several versions of pagers and paging devices. At the table you may notice something similar to the one in this image:
