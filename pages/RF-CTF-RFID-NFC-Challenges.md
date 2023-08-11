@@ -144,3 +144,7 @@ Flag will be revealed when relayed to the correct reader.
 Extract the contents of Paul's badge...
 ### Flag
 Present the contents for verification to recieve the flag.
+
+## ToothBrush Challenge
+###Physical
+standby for in room instructions

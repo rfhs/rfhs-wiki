@@ -90,25 +90,6 @@ Properly decoding this signal will give you a readable ascii string which may be
 You are doing this manually, software examples include audacity, urh, inspectrum, and baudline.
 </details>
 
-## BROADCAST_n
-
-### Virtual
-
-This challenge does not have a virtual presence.
-
-### Physical
-
-Look in the US Broadcast FM band for WBFM signal.
-
-### Flag
-
-Boardcast FM can do so much more than just audio. Use some readily available open source tools to pull text from various parts of the signal.
-
-### Hint
-<details>
-  <summary>Click here to see hint</summary>
-What makes the title and artist show up when you're listening to a stereo FM station? What is the protocol behind HD Radio? There might not be any flags in the audio itself.
-</details>
 
 ## POCSAG
 
@@ -226,14 +207,20 @@ You will need bidirectional communication, not just packet injection, to obtain 
 </details>
 
 
+## In person SDR Stuff
+
+There are a few challenges that will be hopping around and changing frequencies.
+
+
+
 ## ISS
 
 This challenge will require you to send a message to the international space station, be digipeated back to earth, and reported on ARISS.net
 
 An amateur radio license is required!
-DMs will come from @APRSISS please follow that account to RX your flag!
-Your message to the ISS must include the following string to count DEFCON@twitter_handle@
-
+You must join the RFHS Discord (link on our website rfhackers.com)
+Your message to the ISS must include the following string to count DEFCON@discord_username@ (you need the @ signs on either side for submission)
+There might be a youtube video on this just saying 
 
 
 
