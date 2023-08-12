@@ -19,8 +19,8 @@
 
  [RF CTF Magic Mixies](RF-CTF-Magic-Mixies)
 
- [RF CTF WAR WALKING] (RF-CTF-INDOOR-WAR-WALK)
- 
+ [RF CTF WAR WALKING](RF-CTF-INDOOR-WAR-WALK)
+
 ## Resources
  [WiFi](WiFi)
 
