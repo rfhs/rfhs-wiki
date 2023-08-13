@@ -34,6 +34,8 @@
 
  [Software Defined Radio](Software-Defined-Radio)
 
+ [802.15.4](802.15.4)
+
 ## Other
 
  [Community Builds](Community-Builds)
