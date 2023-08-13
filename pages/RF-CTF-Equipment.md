@@ -25,10 +25,11 @@ For the duration of the CTF the router will continue to run and and cycles its b
 Scoring works by taking the total number of team name submissions to the page hosted on the ap and dividing the points the challenge is worth up proportionally up amongst the teams that submitted their team name successfully.
 
 
-New players potentially beware: Some long time veteran teams have dedicated hard ware designed to automatically connect and submit their team names to the web page, so it may take you some time to see this AP if automated hardware is being run. Additionaly players should look out for teams running rogue APs that are pretending to be be the one hosted by the RFHS. You can submit your team name to rogue AP, but the RFHS wont award you any proportional points for you effort 
+**New players potentially beware:** Some long time veteran teams have dedicated hard ware designed to automatically connect and submit their team names to the web page, so it may take you some time to see this AP if automated hardware is being run. Additionaly players should look out for teams running rogue APs that are pretending to be be the one hosted by the RFHS. You can submit your team name to rogue AP, but the RFHS wont award you any proportional points for you effort. Pre-con testing and preperation are keys to being successful with this challenge. Consider building a simulation of the challenge itself. The following simulators could be useful:
 
-
-
+- [https://github.com/blunderbuss-wctf/koth_simulator](https://github.com/blunderbuss-wctf/koth_simulator)
+ 
+ 
 ## 6LoWPAN
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/rfctfequipment/6lowpan.JPG)
 
