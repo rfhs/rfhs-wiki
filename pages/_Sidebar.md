@@ -9,6 +9,8 @@
 
  [RF CTF WiFi Challenges](RF-CTF-WIFI-Challenges)
 
+ [RF CTF King of the Hill](RF-CTF-King-Of-The-Hill)
+
  [RF CTF Foxhunt](RF-CTF-Foxhunt)
 
  [RF CTF RFID-NFC Challenges](RF-CTF-RFID-NFC-Challenges)
