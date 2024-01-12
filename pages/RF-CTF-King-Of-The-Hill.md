@@ -1,9 +1,13 @@
 # Wi-Fi Provisioning King of the Hill
 
 An ESP32 will act as an IoT device that needs to be connected to a network to perform it's function.
+
 In the un-provisioned state it provides an interface via BLE to configure the Wi-Fi settings of the target network.
+
 Once connected to the configured Wi-Fi network the ESP32 will make an HTTP GET request to: `hill.rfhackers.com/king.txt`
+
 The HTTP response must be a 200 and the body shall contain your team name.
+
 Upon success, failure, or timeout, the ESP32 will disconnect and revert to it's un-provisioned state.
 
 You must:
