@@ -354,7 +354,7 @@ will announce and update when ready
 server is sdr.rfhackers.com ports 6550-6570
 [SDR TOOLS](https://github.com/rfhs/rfctf-sdr-tools)
 
-These ZMQ receivers can be opened in GNUradio and used to modify a signal into a visible and audible format. It is recommended to run this on your own machine and not the virtual machine, as it can be very resource intensive.
+These ZMQ receivers can be opened in GNUradio and used to modify a signal into a visible and audible format. The virtual machines used for the virtual wifi *can* be used, but performance will be poor.  If possible, it is recommended to use Gnuradio on your local computer for better performance.
 
 By modifying the 'port' variable, you can access each of the different challenges.
 
