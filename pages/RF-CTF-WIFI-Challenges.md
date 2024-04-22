@@ -11,7 +11,7 @@ All challenges that are virtual will be available in person.  Like in all past y
 
 ## virtual
 
-Log in to your existing account or create a new one on our scoreboard: https://scoreboard.rfhackers.com; once you are logged in, click the heading with your user name (https://scoreboard.rfhackers.com/user). Follow the directions to provision a new vm (below modifying user settings, above the user scoreboard). Click on the left labeled "Start My VM".
+Log in to your existing account or create a new one on our scoreboard: https://scoreboard.rfhackers.com; once you are logged in, click the heading with your user name (https://scoreboard.rfhackers.com/user). Follow the directions to provision a new vm (below modifying user settings, above the user scoreboard). Click on the link to the left "Start My VM".
 
 
 The page will change and indicate "VM Instance provisioning..." and will auto refresh back to the user page.  The SSH keys will be provisioned now and you must download them to your machine by clicking on the link labeld "this is the link to download the private key".  Follow the directions on the user page just below the SSH Private Key.  From here you can SSH into your environment of choice.
