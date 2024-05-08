@@ -94,3 +94,5 @@ SDR Ninja Software Defined Radio
 [gr-fosphor](https://osmocom.org/projects/sdr/wiki/fosphor) - Uses OpenCL and OpenGL acceleration, if your system supports it, to provide a Real-Time Spectrum Analyzer (RTSA) like display. This is useful for responsive, wide bandwidth displays. See also the [fosphor - Demo](https://youtu.be/mjD-l3GAghU) video.
 
 [multimon-ng](https://github.com/EliasOenal/multimon-ng) does not interface with SDR hardware directly, but is a useful second step for decoding POCSAG, FLEX, and certain other signals after receiving with something like rx_fm.
+
+[fldigi](http://www.w1hkj.com/beginners.html) is a beast of a piece of software that has a very wide range of modulation types to work with. It's commonly used by hams with stupid amounts of money for hardware. If you can't find a demod in another tool, it's probably in fldigi. But be warned: fldigi is confusing to use and set up as a beginner (usually due to the way that PulseAudio works). If you're having trouble setting it up and are receiving PulseAudio errors, tweaking your sources with the pavucontrol-qt package will likely help.
