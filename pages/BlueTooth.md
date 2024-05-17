@@ -29,7 +29,7 @@
 
 
 # Security Research
-
+Getting started automating the BLE_KoTH Challenge: https://github.com/lozaning/KoTH
 
 
 
