@@ -69,6 +69,17 @@ Hint
 .. ..-. ....... -.-- --- ..- ....... -.-. .- -. ....... .-. . .- -.. ....... - .... .. ... ....... -.-- --- ..- ....... -.. --- -. - ....... -. . . -.. ....... .- ....... .... .. -. -
 </details>
 
+## HAM_APRS
+
+### Physical
+
+Send and receive APRS packets in the room.  Make sure to follow the instructions listed in the challenge.
+
+<details>
+  <summary>Click here to see hint</summary>
+Not all software supports all features of APRS, including compression via MIC-E.
+</details>
+
 
 ## SDR_ASK_n
 
