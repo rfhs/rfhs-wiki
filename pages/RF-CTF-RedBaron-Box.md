@@ -1,6 +1,6 @@
 ## RedBaron's RF CTF Box
 
-![RedBaron RF CTF Box](../files/images/whatsinthebox/RedBaron-Box.jpg)
+![RedBaron RF CTF Box](https://github.com/rfhs/rfhs-wiki/blob/master/files/images/whatsinthebox/RedBaron-Box.jpg)
 
 * Intel Nuc
 * Slimq 240W Power Supply

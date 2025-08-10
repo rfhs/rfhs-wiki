@@ -1,6 +1,6 @@
 ## SDR Box
 
-![RF CTF SDR Box](../files/images/whatsinthebox/SDR-Box.jpg)
+![RF CTF SDR Box](https://github.com/rfhs/rfhs-wiki/blob/master/files/images/whatsinthebox/SDR-Box.jpg)
 
 * Intel Nuc
 * 3x Nuand bladeRF 2.0 micro xA4
