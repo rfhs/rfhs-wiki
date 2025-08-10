@@ -23,6 +23,14 @@
 
  [RF CTF WAR WALKING](RF-CTF-INDOOR-WAR-WALK)
 
+## What's in the box?
+
+[What's in the Box?](RF-CTF-Whats-In-The-Box)
+
+[SDR Box](RF-CTF-SDR-Box)
+
+[RedBaron Box](RF-CTF-RedBaron-Box)
+
 ## Resources
  [WiFi](WiFi)
 
