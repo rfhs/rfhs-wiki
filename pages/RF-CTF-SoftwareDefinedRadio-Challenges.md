@@ -246,12 +246,6 @@ once you have an image of the screen there will be text on multiple line going f
 submit text displayed to flag submission area
 
 
-## FPV
-
-See What Ive Got
-submit what the camera sees into the flag submission
-
-
 ## WOODY SECTION
 
 
@@ -355,11 +349,6 @@ Flag
 Submit the hex message for the LORA no MAC no date time stamp
 
 
-### IRIDIUM (Maybe if we are lucky)
-
-will announce and update when ready
-
-
 
 ## ZMQ
 server is sdr.rfhackers.com ports 6550-6570
@@ -377,6 +366,3 @@ ZeroMQ (also known as ØMQ, 0MQ, or zmq) looks like an embeddable networking lib
 
 http://www.sigidwiki.com/wiki/
 
-
-
-IN PERSON
