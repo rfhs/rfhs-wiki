@@ -31,6 +31,8 @@
 
 [RedBaron Box](RF-CTF-RedBaron-Box)
 
+[What's not in a Box?](RF-CTF-Whats-Not-In-A-Box)
+
 ## Resources
  [WiFi](WiFi)
 
