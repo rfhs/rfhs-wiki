@@ -1,13 +1,17 @@
 name: Documentation
 
-on: [push]
+on:
+  push:
+    branches: [master]
+    paths: ["pages/**"]
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v4
       # Additional steps to generate documentation in "Documentation" directory
       - name: Upload Documentation to Wiki
         uses: SwiftDocOrg/github-wiki-publish-action@v1
