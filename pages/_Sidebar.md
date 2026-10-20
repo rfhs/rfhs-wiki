@@ -1,59 +1,39 @@
-# [Home](Home)
+### [🏠 Home](Home)
 
-## RF CTF Information
- [Getting Started](RF-CTF-Virtual-HowToGetStarted)
+### Start Here
+- [Getting Started](RF-CTF-Virtual-HowToGetStarted)
+- [Contribute to the Wiki (earn points!)](RF-CTF-Contributing-for-points)
 
- [RF CTF Rules](RF-CTF-RULES)
+### The Game: RF CTF
+- [Rules](RF-CTF-RULES)
+- **Challenges**
+  - [Wi-Fi](RF-CTF-WIFI-Challenges)
+  - [Software Defined Radio](RF-CTF-SoftwareDefinedRadio-Challenges)
+  - [RFID / NFC](RF-CTF-RFID-NFC-Challenges)
+  - [King of the Hill](RF-CTF-King-Of-The-Hill)
+  - [Foxhunt](RF-CTF-Foxhunt)
+  - [Indoor War Walk](RF-CTF-INDOOR-WAR-WALK)
+  - [Magic Mixies](RF-CTF-Magic-Mixies)
+- **What's in the Box?**
+  - [Overview](RF-CTF-Whats-In-The-Box)
+  - [SDR Box](RF-CTF-SDR-Box)
+  - [RedBaron Box](RF-CTF-RedBaron-Box)
+  - [What's Not in a Box?](RF-CTF-Whats-Not-In-A-Box)
+  - [Equipment We Bring](RF-CTF-Equipment)
 
- [RF CTF Software Defined Radio Challenges](RF-CTF-SoftwareDefinedRadio-Challenges)
+### Learn
+- [Wi-Fi](WiFi)
+- [Bluetooth / BLE](BlueTooth)
+- [RFID](Radio-Frequency-Identification-RFID)
+- [NFC](Near-Field-Communication-NFC)
+- [Software Defined Radio](Software-Defined-Radio)
+- [802.15.4 / Zigbee](802.15.4)
+- [Ham Radio](Ham-Radio)
 
- [RF CTF WiFi Challenges](RF-CTF-WIFI-Challenges)
-
- [RF CTF King of the Hill](RF-CTF-King-Of-The-Hill)
-
- [RF CTF Foxhunt](RF-CTF-Foxhunt)
-
- [RF CTF RFID-NFC Challenges](RF-CTF-RFID-NFC-Challenges)
-
- [RF CTF IDWW](RF-CTF-INDOOR-WAR-WALK)
-
- [Contributing to the wiki](RF-CTF-Contributing-for-points)
-
- [RF CTF Magic Mixies](RF-CTF-Magic-Mixies)
-
- [RF CTF WAR WALKING](RF-CTF-INDOOR-WAR-WALK)
-
-## What's in the box?
-
-[What's in the Box?](RF-CTF-Whats-In-The-Box)
-
-[SDR Box](RF-CTF-SDR-Box)
-
-[RedBaron Box](RF-CTF-RedBaron-Box)
-
-[What's not in a Box?](RF-CTF-Whats-Not-In-A-Box)
-
-## Resources
- [WiFi](WiFi)
-
- [BlueTooth](BlueTooth)
-
- [Ham Radio](Ham-Radio)
-
- [Near Field Communication NFC](Near-Field-Communication-NFC)
-
- [Radio Frequency Identification RFID](Radio-Frequency-Identification-RFID)
-
- [Software Defined Radio](Software-Defined-Radio)
-
- [802.15.4](802.15.4)
-
-## Other
-
- [Community Builds](Community-Builds)
-
- [DEFCON-29-WWWD-RIGS](DEFCON-29-WWWD-RIGS)
-
- [DEFCON-30-WWWD-RIGS](DEFCON-30-WWWD-RIGS)
-
- [Contributors](zz-contributors)
+### Community
+- [Rig Gallery](Community-Builds)
+  - [DEF CON 30](DEFCON-30-WWWD-RIGS)
+  - [DEF CON 29](DEFCON-29-WWWD-RIGS)
+- [Night Vision & Thermal for the CTF](IR-NVG-Help)
+- [FanFic](FanFic)
+- [Contributors](zz-contributors)
