@@ -2,6 +2,7 @@
 
 ### Start Here
 - [What is RFHS?](What-Is-RFHS)
+- [Community Links](Community-Links)
 - [Getting Started](RF-CTF-Virtual-HowToGetStarted)
 - [Contribute to the Wiki (earn points!)](RF-CTF-Contributing-for-points)
 
@@ -38,7 +39,6 @@
 - [Rig Gallery](Community-Builds)
   - [DEF CON 30](DEFCON-30-WWWD-RIGS)
   - [DEF CON 29](DEFCON-29-WWWD-RIGS)
-- [Community Links](Community-Links)
 - [Night Vision & Thermal for the CTF](IR-NVG-Help)
 - [FanFic](FanFic)
 - [Contributors](zz-contributors)
