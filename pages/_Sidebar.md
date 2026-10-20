@@ -1,6 +1,7 @@
 ### [🏠 Home](Home)
 
 ### Start Here
+- [What is RFHS?](What-Is-RFHS)
 - [Getting Started](RF-CTF-Virtual-HowToGetStarted)
 - [Contribute to the Wiki (earn points!)](RF-CTF-Contributing-for-points)
 
@@ -14,12 +15,15 @@
   - [Foxhunt](RF-CTF-Foxhunt)
   - [Indoor War Walk](RF-CTF-INDOOR-WAR-WALK)
   - [Magic Mixies](RF-CTF-Magic-Mixies)
+  - [FlipperBox](RF-CTF-FlipperBox-Challenges)
+  - [BLE CTF](RF-CTF-BLE-CTF-Challenges)
 - **What's in the Box?**
   - [Overview](RF-CTF-Whats-In-The-Box)
   - [SDR Box](RF-CTF-SDR-Box)
   - [RedBaron Box](RF-CTF-RedBaron-Box)
   - [What's Not in a Box?](RF-CTF-Whats-Not-In-A-Box)
   - [Equipment We Bring](RF-CTF-Equipment)
+- [Gear Ideas](RF-CTF-Gear-Ideas)
 
 ### Learn
 - [Wi-Fi](WiFi)
@@ -34,6 +38,7 @@
 - [Rig Gallery](Community-Builds)
   - [DEF CON 30](DEFCON-30-WWWD-RIGS)
   - [DEF CON 29](DEFCON-29-WWWD-RIGS)
+- [Community Links](Community-Links)
 - [Night Vision & Thermal for the CTF](IR-NVG-Help)
 - [FanFic](FanFic)
 - [Contributors](zz-contributors)
