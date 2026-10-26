@@ -90,3 +90,7 @@ _Last generated 2026-10-26 from 10 scoreboard backups._
 |---|---|---|
 | **blunderbuss** | 5 | BSides Delaware 2024, BSides Charm 2025, DEF CON 33, BSides Delaware 2025, BSides Charm 2026 |
 | **WhatTheFreq!** | 4 | DEF CON 31, ShmooCon 2024, DEF CON 32, ShmooCon 2025 |
+
+---
+
+🚧 **More history coming.** We're working with our old scoreboard to pull historical wins out of its database. Earlier champions will be added here as we recover them.
