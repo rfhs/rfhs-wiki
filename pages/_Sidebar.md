@@ -8,6 +8,7 @@
 
 ### The Game: RF CTF
 - [Rules](RF-CTF-RULES)
+- [🏆 Hall of Champions](RF-CTF-Hall-of-Champions)
 - **Challenges**
   - [Wi-Fi](RF-CTF-WIFI-Challenges)
   - [Software Defined Radio](RF-CTF-SoftwareDefinedRadio-Challenges)
